@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Aceh Archive for DRR
 subtitle:
 description:
-author: John Doe
-language:
+author: Nurjanah
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://nurjanahjane.github.io
+root: /aceh_archive_for_drr
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -68,4 +68,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:NurjanahJane/aceh_archive_for_drr.git
+  branch: gh-pages
+
