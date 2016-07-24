@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+.root {
+  width: 100%;
+  height: 100%;
+}
+
+.panel {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.buttons {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.button {
+  margin-right: 10px;
+  opacity: 0.5;
+}
+
+.button.active {
+  margin-right: 10px;
+  opacity: 1;
+}
+
+.button:last-child {
+  margin-right: 0;
+}
+
+.button-history {
+  width: 78px;
+  height: 108px;
+  background-image: url("images/button-histroy.png");
+}
+
+.button-science {
+  width: 81px;
+  height: 108px;
+  background-image: url("images/button-science.png");
+}
+
+.button-interview {
+  width: 81px;
+  height: 108px;
+  background-image: url("images/button-interview.png");
+}
+
+.buttons-sub {
+  display: none;
+  margin-top: 20px;
+  width: 300px;
+}
+
+.buttons-sub.shown {
+  display: block;
+}
+
+.button-science-sub {
+  display: block;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 2px solid #000;
+  margin-top: 5px;
+  padding: 5px 10px;
+}
+
+.button-science-sub.active {
+  background-color: #fff;
+}
+
+a.button-science-sub {
+  color: #000;
+  text-decoration: none;
+}
