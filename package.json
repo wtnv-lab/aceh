@@ -8,7 +8,8 @@
   "scripts": {
     "server": "hexo server",
     "generate": "hexo generate",
-    "deploy": "hexo deploy"
+    "deploy": "hexo deploy",
+    "static": "cp -r static/ public/"
   },
   "dependencies": {
     "hexo": "^3.2.2",
