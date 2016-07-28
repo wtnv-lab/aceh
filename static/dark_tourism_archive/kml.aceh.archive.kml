@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Temporary Places</name>
+	<open>1</open>
+	<Document>
+		<name>Abasiah</name>
+		<open>1</open>
+		<Style id="sh_1.Abasiah">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-no1wPinTNKY/VPUUwkUS7aI/AAAAAAAFRbA/Ltc_f6P0HT0/s100-no/1.Abasiah.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Abasiah Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh3.googleusercontent.com/-no1wPinTNKY/VPUUwkUS7aI/AAAAAAAFRbA/Ltc_f6P0HT0/s100-no/1.Abasiah.png"/></p>
+				<p class="evidence_name">Abasiah<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_1.Abasiah">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-no1wPinTNKY/VPUUwkUS7aI/AAAAAAAFRbA/Ltc_f6P0HT0/s100-no/1.Abasiah.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_1.Abasiah">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_1.Abasiah</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_1.Abasiah</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Abasiah</name>
+			<description><![CDATA[<p class="evidence_indonesian">Pada Minggu 26 Desember 2004, tepatnya tahun yang lalu, merupakan hari yang tidak akan kami lupakan seumur hidup kami, dimana pada saat itu telah terjadi bencana yang maha dahsyat, yang tidak pernah terlihat oleh mata, tidak pernah terdengar oleh telinga dan tidak pernah terbayangkan dan terlintas dalam pikiran. Allah SWT telah memperlihatkan sebagian tanda- tanda kebesaran dan kekuasaan-Nya, ALLAHU AKBAR.</p>
+
+<p class="evidence_indonesian">Kira- kira pukul 08.00 pagi itu, terjadilah gempa yang sangat kuat ( ada yang menyebutkan 8,9 dan ada juga 9,8 skala richter), jangankan untuk berjalan, berdiripun tidak kuat rasanya. Pada saat itu saya sedang tidak berada di rumah karena sedang berbelanja kebutuhan sehari hari rumah tangga seperti biasanya kami lakukan setiap minggu pagi. Pada saat gempa terjadi, kami (saya dan kakak saya) sedang berada di Desa Lamdingin, kami melihat rumah 3 lantai roboh di depan mata kami, MASYA ALLAH, yang terpikir oleh saya adalah anak - anak, karena pada saat itu suami saya sedang dinas ke luar kota. Yang teringat dan terucap tak lain dan tak bukan adalah DOA, agar Allah menyelamatkan anak- anak saya, sempat saya berfikir bahwa kiamat telah tiba, namun saya teringat kata kata Ustadz yang mengatakan bahwa bila kiamat terjadi, seorang ibu yang sedang mengandungpun tidak memikirkan anak dalam kandungannya, sementara yang terjadi pada saya adalah saya mengingat semuanya. Setelah gempa besar terjadi sekitar 5 atau 7 menit, gempa susulan pun terus terjadi dan kamipun pulang ke rumah. Tiba di ujung lorong rumah kami, ALHAMDULILLAH tidak satu rumahpun di lorong kami yang roboh, anak anak dan semua warga disinipun baik baik saja. Semua mereka tidak berani di dalam rumah namun berkumpul di sepanjang lorong ini.</p>
+
+<p class="evidence_indonesian">Gempa susulan pun terus terjadi, sekitar 25 menit kemudian kami melihat orang-orang dari arah Tempat Pelelangan Ikan (TPI) dan jalan raya berlari-lari sambil melihat ke belakang, salah satu dari mereka adalah Ibu Bundiah alias Wak Kolak berlari ke arah kami sambil menjerir-jerit menyeru orang orang untuk naik kerumah saya karena air laut sudah naik, tanpa berpikir lagi kami langsung naik ke lantai 2 (seandainya tidak ada seruan untuk naik ke lantai 2, mungkin kami sudah kucat kacir berlarian karena tidak bisa berpikir lagi pada saat itu), saya lihat ada sekitar belasan orang berada disana. Dalam hitungan mungkin tidak sampai 3 menit, air dilantai 2 rumah saya sudah sepinggang orang dewasa, saya dan anak anak saya (Agin, Ghazi dan Yanti anak angkat saya) sudah tidak mampu lagi menggendong adik adiknya yang berusia 3 dan 4 tahun (Thoriq dan Zaffa) waktu itu. SUBHANALLAH, ternyata mobil mobilan plastik mereka yang sudah rusak dan saya gudangkan di lantai 2 tersebut dibawa oleh air dan mengapung di hadapan kami dan langsung anak anak saya letakkan di dalam mobil tersebut dan merekapun sangat senang.</p>
+
+<p class="evidence_indonesian">Dari Jendela depan rumah lantai atas, saya lihat banyak boat ikan yang hanyut di depan rumah dengan kecepatan tinggi, seperti mobil mobilan yang ditarik mundur kemudian dilepaskan, sesaat saya teringat akan cerita almarhum ayah saya tentang air bah di masa Nabi Nuh dahulu. Demi allah, pada saat itu bibir tak terlepas dari zikir dan hati sayapun berkata: “Ya Allah, ternyata kami bukanlah termasuk kedalam hamba hambaMu yang beriman sehingga Engkau perlihatkan bencana dan kiamat ini pada kami (lagi lagi saya teringat perkataan Ustadz yang mengatakan bahwa orang orang beriman tidak diperlihatkan kiamat). namun Ya Allah, bila Engkau ridha kalau kami mati dengan cara seperti ini, sesungguhnya aku lebih ridha lagi Ya Allah, Alhamdulillah aku dan anak anak bisa mati bersama di dalam rumah kami ini, namun kalau kami boleh Ya Allah, berikan kami kesempatan lagi untuk hidup agar dapat memperbaiki kesalahan dan dosa-dosa kami, tolong hentikan musibah ini Ya Allah”, tiba tiba saya teringat HASBUNALLAHU WANI`MAL WAKIIL, namun pada saat itu saya lupa lanjutannya, kalimat itupun menghiasi bibir ini, saya ingat arti dari kalimat itu, yaitu cukup Allah sebagai penolong kami.</p>
+
+<p class="evidence_indonesian">Kami yang di dalam rumah pun tidak ada yang menjerit jerit dan tidak setetes air mata pun yang jatuh pada saat itu, yang ada hanyalah ZIKRULLAH dan DOA. Kamipun sempat saling memohon maaf satu sama lain ibarat orang yang akan pergi jauh hingga terdengar teriakan berkali kali dari luar, “Ek Ateuh bot” atau “Naik ke atas bot”, pada waktu itu air sudah se-dada orang dewasa, tanpa pikir panjang lagi kami langsung keluar dan naik ke atas boat, ada yang melalui pintu dan ada juga dengan cara membuka atap lantai atas, sambil menuju ke arah boat, sempat terpikir juga oleh saya bahwa ALHAMDULILLAH, ada orang baik yang menjemput kami dengan boat, saya tidak tahu kalau boat itu sudah tertancap atau tersangkut di atas rumah saya. beberapa orang yang naik ke lantai 2 rumah Ibu Radenmah pun naik ke atas boat bergabung dengan kami. Beberapa saat kami berada di atas boat, suara azan pun dikumandangkan oleh beberapa orang, Ijal, Epi, seorang polisi yang saya tidak tahu namanya dan sayapun sempat azan sedikit karena melihat gelombang air datang lagi dari arah sungai dan SUBHANALLAH gelombang tersebut makin mengecil seiring dengan kemandang azan.</p>
+
+<p class="evidence_indonesian">Kegiatan kami selama kurang lebih 5 jam berada diatas boat adalah ada yang mengaji, berdo`a, berzikir, ada yang melihat-lihat sekelilingnya dan berkomentar, ada juga yang berjalan-jalan diatas boat, dsb. dari atas boat kami melihat kapal cepat yang membawa penumpang Sabang-Banda Aceh mondar mandir tidak bisa berlabuh, helicopter juga lalu lalang terbang diatas, kami melambai lambaikan tangan mohon bantuan, namun lambaian tangan kami tak mampu membuat heli tersebut menghampiri dan menjemput kami.</p>
+
+<p class="evidence_indonesian">Pada saat itu saya tidak banyak melakukan apa-apa, bibir berzikir dan pikiran melayang-layang memikirkan suami, ibu dan saudara saudara saya yang lain serta masih bingung dengan keadaan yang ada. Setelah beberapa saat berada diatas boat dan suasanpun agak tenang, kami melihat kawan-kawan yang sudah selamat dari bencana juga ikut naik ke atas boat ini dan bisa saya pastikan bahwa mereka memiliki harapan yang sama dengan kami yang sudah berada diatas yaitu bila air bah datang lagi maka kami akan dibawa oleh boat ini dan hal ini lebih baik ketimbang terombang ambing didalam air yang berkecamuk seperti blender itu, total kami yang berada di atas boat berjumlah 59 orang.</p> 
+
+<p class="evidence_indonesian">Di saat berada di atas boat, ada diantara kami yang mengambil kelapa satu tandan yang hanyut lalu membelah dan mengupasnya serta membagikan kepada para “penumpang”, tentu saja yang diutamakan adalah kepada anak-anak terlebih dahulu. Mereka juga dari atas boat mengambil anak perempuan yang hanyut dan ternyata sudah tidak bernyawa lagi. Setelah agak lama di atas boat dan tidak terlihat tanda tanda air akan datang, kamipun berkeinginan untuk turun dan meninggalkan tempat ini.</p>
+
+<p class="evidence_indonesian">SUBHANALLAH, WALHAMDULILLAH, WALLAHU AKBAR, ternyata di boat ini juga tersedia air minum 1 jerigen, parang (yang digunakan membelah kelapa), kain sarung dan beberapa buah jerigen yang kami ikat untuk dijadikan pelampung bila sewaktu waktu air datang lagi pada saat kami turun dari boat.</p>
+
+<p class="evidence_indonesian">Kira kira pukul 14.30, kami memutuskan untuk turun namun sayangnya kami tidak bisa turun lagi, pada saat itu pula si Epi tetangga kami berkata kepada saya, “kak, kita tidak bisa turun”, saat saya berpikir, tiba tiba ibunya Epi yaitu Ibu Basyariah berkata, “Kemarin kita ada pinjam tangga Kak Abes, dan mamak tarok di samping rumah (antara rumah saya dan rumahnya)”. SUBHANALLAH dan ALHAMDULILLAH, ternyata tangga tersebut sedang berdiri dengan manisnya diantara rumah kami, dengan menggunakan tangga itulah kamipun turun, begitu sampai dibawah, saya berpaling kebelakang untuk melihat rumah terakhir kalinya, ternyata boat yang kami naiki tadi sudah “terduduk” dengan kokohnya di atas rumah saya, rumah yang penuh dengan kenangan indah, rasa haru dan bahagiapun dirasakan, meskipun sudah hancur dIterjang tsunami yang dahsyat namun masih bisa memberikan manfaat bagi orang banyak, ALHAMDULILLAH.</p>
+
+<p class="evidence_indonesian">INSYA ALLAH, bila suatu saat saya bertemu dengan Allah SWT, saya akan bertanya, “Ya Allah, mengapa Engkau berikan musibah yang dahsyat ini kepada kami dan mengapa pula di atas rumah kami Engkau kirimkan dan dudukkan boat agar kami bisa naik diatasnya?. namun walau beribu pertanyaan berkecamuk di dalam dada ini, kami selalu berprasangka baik kepadaMu Ya Allah, Kami yakin Engkau memiliki rencana-rencana yang baik di balik ini semua. Engkaupun selalu berfirman di dalam kitab Al Qur`an yang mulia bahwa dibalik kesusahan pasti ada kemudahan. Engkau uji orang-orang yang beriman dan Engkau muliakan mereka dengan RIDHA dan SYURGAMU”.</p>
+			<p class="evidence_english">On Sunday, December 26, 2004, exactly a year ago, the day that we will never forget our lifetime, in the time which there has been a great disaster, which has never been seen by the eye, never heard by ear and never imagined and comes to mind. Allah SWT has been showing some signs of his greatness and power, ALLAHU AKBAR.</p>
+
+<p class="evidence_english">Approximately 08:00 that morning, there was a very strong earthquake (some peoples said 8.9 and some also said 9.8 on the Richter scale), I can not to walk, I was feeling not strong stand alone. At that time I was not at home because I was shopping for needed as we normally did every Sunday morning. At the time of the earthquake, we (my sister and I) were in the Lamdingin village, we saw 3-storey house collapsed in front of your eyes, MASYA ALLAH, I was thinking about my child, because at that time my husband was on duty to outside the city. None other spoken and remembered than the DOA, that God will save my children, I had thought that the apocalypse has arrived, but I remembered the words of Ustad who said that when the apocalypse occurs, a mother who was pregnant was not thinking of the child in the womb, while that happens to me was I remember everything. After a large earthquake occurred about 5 or 7 minutes, aftershocks continued to occur and we also went home. Arrived at the end of the hallway of our house, thanks God no one collapsed houses in our hallway, the children and all people were fine. All of them did not venture inside the house but gathered along this corridor.</p>
+
+<p class="evidence_english">Aftershocks continued to occur, about 25 minutes later we saw people from the Fish Auction Place (TPI) and the street ran, looking back, one of them was Mrs. Bundiah or Wak Kolak running towards us while screaming, called on the people to go up to my house because sea water has gone up, without thinking again we went up to the 2nd floor (if there was no call to go up to the 2nd floor, maybe we&apos;ve scattered running around because we can not thinking anymore at that time). I see there were about a dozen peoples were there. May not be up to 3 minutes, the water on the second floor of my house was a waist-length adult, I and my children (Agin, Ghazi and Mary my adopted daughter) was not longer able to hold younger brothers aged 3 and 4 years (Thoriq and Zaffa ) at that time. Subhanallah, their plastic toys car that was broken and I stored on the 2nd floor was carried by the water and floats in front of us and immediately put my children in the car and they were very happy.</p>
+
+<p class="evidence_english">From the front window upstairs, I saw a lot of fish boat drifting in front of my house with the high speed, such as cars toy were pulled back and released, once I remembered the last story from my father about flood in the Noah era before. Demi Allah, when it was just Zikir on my lips and my heart was saying: &quot;Ya Allah, it turns that we were not be one of good servant for You, You shows these disaster and apocalypse on us (again I was remembered the words of Ustad who said that the apocalypse is not shown for servants believers). but Ya Allah, when you pleasure if we die in this way, in fact I&apos;m more than pleasure, Ya Allah, I thanks to God because of me and children can die together in our house, but if we may,&apos; Ya Allah, give us another chance to live in order to correct mistakes and our sins, please stop this tragedy Ya Allah &quot;, I suddenly remembered HASBUNALLAH WA NI&apos;MAL WAKIIL, but at that moment I forgot the sequel, and then this sentences graced my lips, I remembered the meaning of the sentence, ie enough God as our help.</p>
+
+<p class="evidence_english">We were who in the house there was no screaming and none a single tear was falling at the time, there is only Zikrullah and DOA. We also had to apologize to each other  like a person who would go far away,  to many times we heard a scream from outside, &quot;Ek Ateuh bot&quot; or &quot;Up to the top of the bot&quot;, at that time the water has been high as chest adult, without thinking anymore, we went straight out and up to the top of the boat, there were some peoples through the door and there were also made a way by open the roof of the upper floor, while heading toward the boat, I was also  Thanks to God, there were good peoples who picked us up with the boat, I did not know that the boat was stuck or snagged on top of my house. Some peoples were up to the 2nd floor of the house Mrs. Radenmah, climbed to the top of the boat to join us. When we were on the boat, the sound of the azan was echoed by several people, Ijal, Epi, a police officer that I did not know his name and I also call a little Azan because I saw another wave was coming from the direction of the river and SUBHANALLAH, the wave increasingly smaller by the sounds of azan.</p>
+
+<p class="evidence_english">Our activities for approximately 5 hours at the top of the boat, we were reading quran, doa, zikir, there were some peoples looked around and comment, there were some peoples also just walked on the boat, etc. From the top of our boat, we saw the fast boats carrying passengers from Banda Aceh to Sabang cannot be anchored, chopper also flew passing over, we were waving for help, but our wave hands was unable to  make the chopper approached and picked us up.</p>
+
+<p class="evidence_english">At that time I was not much doing nothing, lips remembrance and distractions to think about my husband, mother, brother, sister and I was still confused with the existing circumstances. After a few moments on the boat and rather quiet, we saw the other friends who had also survived from the disaster, climbed to the top of this boat and I can confirmed that they had the same hopes with us which were already above on boat. That was when the flood came again then we will be taken by this boat and it was better than tossed around in the water like a raging blender, total all of us above on the boat amounted to 59 peoples.</p>
+
+<p class="evidence_english">At the time was on the boat, there was one among us who took coconut drifting, then we were splitting, peeling and share it to the &quot;passengers&quot;, of course the priority was advance children. They were also picked up the girl who drift to the top of boat but she was not longer alive. After a long time on the boat and not visible signs that the water will came, we were also willing to going down and leaving this place.</p>
+
+<p class="evidence_english">SUBHANALLAH WALHAMDULILLAH WALLAHU AKBAR, turns on the boot was also available one of plastic jar a drinking water, machete (which used to splitting the coconut), sarong and some of empty plastic jars then we tied it to be used as a float if at any time the water comes again when we got off the boat.</p>
+
+<p class="evidence_english">At about 14:30, we decided to go down but unfortunately we could not go down anymore, at the same time, Epi, our neighbor said to me, &quot;Sister, we can not go down&quot;, while I was thinking, Epi`s mother, Mrs. Basyariah suddenly said, &quot;Yesterday we have borrowed ladder Sister Abes, and placed it in the next of our house (between my house and her house)&quot;. Subhanallah and Alhamdulillah, it turns that the ladder was still standing between our house, by using the stairs we were went down, when I arrived below, I turned backward to saw my house for the last time, that I realized that the boat had been &quot;sitting&quot; on top of our house and stable, the house filled with wonderful memories, sad and happy was emotion felt, even though it was destroyed by the devastating tsunami, but still can provides many benefits for peoples, Alhamdulillah.</p>
+
+
+<p class="evidence_english">INSHA ALLAH, if one day I met God, I would ask, &quot;Oh God, why have you given this terrible calamity to us and why also you send and reseat boat at the top of my house so we can rise above it ?. But even a thousand questions raging in the chest, we always had a good assume faith to the You, Ya Allah, we were sure you have a good plans behind it all. Wasn&apos;t always says in the Quran that in the ease distress there was be reversed. YOU gave test to those peoples who believe, and they glorify YOU with the blessing and YOUR HEAVEN.</p>]]></description>
+			<Camera>
+				<longitude>95.32967400521218</longitude>
+				<latitude>5.568003122117248</latitude>
+				<altitude>871.5198711589314</altitude>
+				<heading>-6.818053590387291</heading>
+				<tilt>41.64850301648486</tilt>
+				<roll>-2.268523776624501</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_1.Abasiah</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32439358363187,5.57452918335362,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Samsuddin</name>
+		<open>1</open>
+		<StyleMap id="msn_2.Samsuddin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_2.Samsuddin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_2.Samsuddin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_2.Samsuddin">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-YTq0hf9r45Y/VPUUz-05III/AAAAAAAFRbU/7Ym0K3fkk1g/s100-no/2.Samsuddin.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Abasiah Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh3.googleusercontent.com/-YTq0hf9r45Y/VPUUz-05III/AAAAAAAFRbU/7Ym0K3fkk1g/s100-no/2.Samsuddin.png"/></p>
+				<p class="evidence_name">Samsuddin<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<ListStyle>
+			</ListStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_2.Samsuddin">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-YTq0hf9r45Y/VPUUz-05III/AAAAAAAFRbU/7Ym0K3fkk1g/s100-no/2.Samsuddin.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<ListStyle>
+			</ListStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Samsuddin</name>
+			<description><![CDATA[<p class="evidence_indonesian">Pada tanggal 26 Desember 2204, lebih kurang pukul 08.10 wib, gempa bumi yang amat dahsyat mengguncang Kota Banda Aceh dengan kekuatan 8,9 skala richter. Semua orang waktu itu keluar rumah, takut roboh rumah dan semuanya mencari lapangan terbuka, termasuk kami sekeluarga dan para tetangga keluar rumah dan berdiri di atas badan jalan. Lebih kurang 25 orang, dan terbanyak adalah orang perempuan. Waktu itu semua pada menangis, dan saya menasehati untuk tidak menangis akan tetapi bertasbihlah atau Meuratep. Saya sudah berkumpul bersama keluarga dan anak saya Mujiburizal juga sudah kembali dari apel lapangan. Saat Mujiburizal tiba dirumah menceritakkan bahwa banyak bangunan yang telah roboh. Hotel Kuala Tripa yang berlantai tiga juga roboh dan rata dengan tanah. Demikian pula halnya Pasar Swalayan Pante Pirak juga roboh tapi tidak rata dengan tanah. Saat itu Ibu Abasiah minta tolong Mujiburizal untuk mengeluarkan mobil beliau dari garasi takut kalau rumahnya roboh akan menimpa mobil. Beliau punya dua mobil dan satunya dikeuarkan sendiri. Tidak lama kemudian terlihat orang-orang berlarian dari Tempat Pelellangan Ikan (TPI) Lampulo yang letaknya tidak jauh dengan rumah kami. Ikut bersama orang orang tersebut Kak Kolak bersama anak muda yang berlarian berteriak air laut naik, air laut naik. Tapi anak muda tadi tetap berlari mencari perlindungan, menurut kami mungkin dia hanyut dan langsung menghilang diterjang air. Sedangkan Kak Kolak langsung ke rumahnya sambil memberi tahu bahwa air laut sedang naik. Lantas saya beritahu kepada semua keluarga dan tetangga yang masih berada di atas jalan. Kita tidak boleh ada lagi disini, kita harus naik ke rumah Ibu Abes ada tingkat dua. Tanpa pikir panjang kami semua naik ke rumah Ibu Abes malalui tangga terus ke lantai dua. Saat itu air sudah mulai terlihat di atas badan jalan. Rupanya dasar laut terbelah, maka keluarlah segala isi dalam perut laut yang sudah terpendam beratus tahun, maka air laut naik ke daratan. Sesampainya kami di lantai duaair sedang naik terus dengan sangat kencang. Orang orang yang sedang dibawa air bah menjerit -jerit minta tolong . Airnya berwarna hitam pekat dan bercampur dengan daun kayu dari dasar laut. Kira-kira lima menit kami berada dilantai dua rumah Ibu Abes, airpun sudah terus naik hingga mencapai lantai dua. Dalam waktu sekejab air dilantai dua sudah mencapai sebahu kami. Anak Ibu Abes saya angkat sebab tidak bisa berdiri lagi dan kami semua bertasbih. Pada saat itu kami sudah saling maaf memaafkan sesama keluarga dan tetanga, kita akan berpisah untuk selamanya dan saya kiranya sudah saatnya kiamat. Dalam waktu yang sangat genting, ada kawan kawan kami yang naik ke atap rumah, mereka melihat boat sedang menuju ke tempat kami yang sedang sangat susah dan kepayahan. Dia bilang naik dalam boat. Waktu itu kami melihat boat tersebut sudah tersangkut seperti posisi sekarang ini. Kami semua dengan cepat naik ke dalam boat tersebut. Orang yang di atas atap merupakan orang yang pertama naik ke dalam boat dan orang yang kedua Ustad Mujib. Siapa saja yang masih di bawah di dorong ke atas, Ustad Mujib tarik dari atas boat dan kami semua dapat terangkat ke dalam boat. Lebih kurang pada awalnya ada 25 orang yang terburu-buru naik dan kami pikir boat itu akan menyelamatkan orang lainnya ditempat lain untuk membantu. Sesampainya kami di atas boat, tidak ada orang lain satupun, kecuali rombongan kami. Saat itu kami teringat bahwa boat ini dibawa Malaikat untuk membantu kami.
+
+Boat yang kami berada didalamnya, kepala sandarnya pada lesplang rumah Bapak Ahmad. Diatas atap rumah Bapak Ahmad orang orang juga banyak dan mereka semua turun kedalam boat yang kami sudah duluan berada di dalamnya, sehingga kami semua berjumlah 59 orang. Saat itu Bapak Ahmad, naik ketangga rumah sendiri dan disana terdapat seorang anak perempuan sedang hanyut. Saat itu dinaikkan ke atap rumah dan waktu diturunkan kedalam boat, anak itu sudah banyak terminum air. Kami berupaya untuk membantunya dengan cara memompa agar air yang terminum sama anak tadi dapat keluar. Berhubung sudah terminum banyak air dan tidak dapat bernafas lagi, akhirnya anak anak perempuan tersebut meninggal dunia di dalam boat. Mengingat cuaca sangat panas, maka saya angkat jenazah tersebut dan saya bawa ke sebelah kiri boat dan cuaca tidak panas lagi. saya hadapkan ke kiblat, tangannya saya lipat dan saya tutup dengan baju bekas orang boat.
+
+saat kami berada dalam boat orang perempuan membaca Wirit Yasin secara bersama sama dan kami seakan akan berada dalam didalam rumah dan ada juga yang bertasbih. saat itu kami melihat karah barat, yang nampak hanya Pulau Aceh dan Pulau Sabang, sedangkan lainnya tidak terlihat lagi hanya sudah menjadi lautan semua. Pada waktu itu masih terlihat gelombang besar dan ileh Wak Kolak minta agar Ustad Mujib dapat Azan. Lantas Ustad Mujib terus azan dan gelombang tadipun pecah di kuala. Kami mengetahui gelombang tadi pecah di kuala, karena rumah-rumah yang hanyut dari Peunayong ditolak ke atas lebih cepat. Selang 10 menit kemudian, nampak lagi gelombang besar dan kami azan lagi. Lebih kurang 7 kali kami azan dan satu kali di azan oleh seorang Polisi Airad. tapi Hazanilla hanya sampai kalimat Asyhaduallaila hailallah, dia jatuh pingsan karena istrinya sedang hamil terbawa gelombang tsunami ke tempat lain dan terpisah dengannya. Semua kami berdoa agar Allah menyelamatkan kami dalam boat tersebut. Seandainya gelombang tadi pecah ke darat, maka boat kami akan dibawa gelombang tsunami ke laut. Air semakin naik dengan kencangnya dan banyak orang yang hanyut termasuk lembu, kami lihat hanyut atas kuburan yang tidak jauh dari boat kami.
+
+Waktu sudah menunjukkan lebih kurang 11.00 wib, anak-anak sudah pada haus meminta minum. Saat itu hanyutlah kelapa muda satu tandan disamping boat kami dan kami tarik kedalam boat kami dan kami boleh serta meminum airnya. Isinya juga sudah keras dan kami semua ikut makan karena kami sudah cukup lapar. Walaupun dalam suasana yang cukup panas, kami semua berdoa agar kami semua selamat. Lebih kurang 7 jam kami semua berada di dalam boat dan pada pukul 3 sore air sudah mulai surut dan baru kami turun. mengingat lokasi kami dalam boat dengan lantai dua agak jauh, maka kami terpaksa memakai tangga yang kebetulan masih ada sehingga kami dapat turun satu persatu dengan selamat. Tangga tersebut sampai saat ini masih kami simpan. Air dijalan waktu itu masih selutut orang dewasa dan kami saat itu berangkat menuju Peunayong. Dalam perjalanan kami menyaksikan mayat mayat bertebaran diatas jalan. Ada orang yang sudah patah patah dan berlumuran darah minta tolong sama kami. Kami hanya melihat saja dan tidak satupun kami ambil. Di Peunayong banyak sekali mayat mayat bergelimpangan, toko-toko banyak yang roboh dan kami terus berjalan hingga sampai ke Simpang Lima. Sesampainya kami di Simpang Lima, kami menyaksikan semua pada menangis ada yang sedang mencari mamak, dan mencari anak sambil menangis. Saat orang berkumpul di Simpang Lima, ada berita air laut naiklagi, maka semua orang berlarian ke Rumah Sakit Kesdam dan saat itu juga turun hujan sehingga rombongan dalam boat tadi juga sudah terpisah pisah dan kami bersama keluarga dan beberapa oranag lainnya bertekad untuk pulang ke kampung kami di Indrapuri. Hari sudah menjelang malam dan juga suasana hujan. Kami semua berjumlah 30 orang, keluar dari Rumah Sakit Kesdam menuju Simpang Surabaya dan menyetop mobil pick up kecil untuk berangkat ke Simpang Surabaya. Sungguhpun kami semua berjumlah sebanyak 30 orang, namun masih muat dalam mobil tersebut. Setibanya di Simpang Surabaya, sudah gelap dan kami melihat yang berjalan kadang kadang tidak berbaju hanya celana saja dengan memegang anak dalam keadaan menangis. Saat itu kami dalam suasana kegelapan, ada orang memberikan roti seorang satu dan setelah itu orang tersebut menghilang. Sekitar pukul 23.00 wib malam, kami pinjam honda kawan untuk mencari mobil guna kami dapat pulang ke kampung kami di Indrapuri. Sesampainya dikampung kami di Indrapuri, memang ada mobil, tapi tidak ada bensin, lalu kami mencari ketempat lain dan kami dapat satu labi labi untuk menjemput kami. Kira kira saat itu waktu sudah menunjukkan pukul 1 malam. Lebih kurang kami berjumlah 30 orang. alhamdulillah kami bisa muat semua dalam labi labi, bahkan dalam mobil labi labi juga ada orang sakit dua orang. Alhamdulillah pukul 2 malam kami baru dapat makam di rumah adik kami. Keluarga di kampung waktu itu merasa bersyukur  kami selamat. Kami mengungsi di rumah adiksaya waktu itu berjumlah 30 orang. Selama satu bulan kami berada di kampung dan bantuan pun sudah mulai ada NGO-NGO. Dua tahun lamanya kami tinggal di kampung dan rumah kami di Lampulo Alhamdulillah masih selamat dari bencana alam gempa bumi dan gelombang tsunami, hanya rusak sedikit yang perlu di rehab.
+
+Demikianlah yang kami alami dalam kisah yang selamat dalam boat. Kami selalu bersyukur, dimana Allah masih menyelamatkan kami sekeluarga sehingga kami dapat meningkatkan amal ibadah selagi kami masih diberikan kesehatan dan kekuatan oleh Allah SWT amien</p>
+			<p class="evidence_english">On December 26, 2204, at approximately 8:10 pm, a very powerful earthquake rocked Banda Aceh with the strength of 8.9 on the Richter scale. All the people were went out of the house, fear of houses collapsed and everyone was looking for an open space, including our family and neighbors out of the house and stood on the road. Approximately 25 peoples, and most were women. At that time everyone was crying, and I advised them not to cry but said Zikir or Meuratep. I&apos;ve been out with my family and children,  Mujiburizal who had come back from a morning assembly. When arriving home Mujiburizal said that many buildings have collapsed. Kuala Tripa Hotel which also collapsed flat on the ground. And Pante Pirak Supermarket a three-story also collapsed but no razed to the ground. At that time Mrs. Abasiah for help Mujiburizal to removed his car from the garage of her house because she was affraid when the house was collapsed will override of her car. She had two cars and one she brought out by her own. Not long later seen people running from Fish Auction (TPI) Lampulo not far to our house. Among them was Ka Kolak with young man running around, screaming &quot;sea water rise, sea water rise&quot;. But the young man was still running for cover, we think he might float hit the water and disappeared. While Kak Kolak directly to his house as he told me that the sea water has gone up. So I tell to the all of my family and neighbors were still on the road. We should not to longer here, we had to go up to the house of Mrs. Abes at level two. Without thinking, we were all climbed up Mrs. Abes house trough stairs. When the water has begun to look at the top of the road. Apparently the sea floor was split, then came out all of the contents of the sea that has been buried for hundreds of years, the sea water was up to the mainland. When we got to the second floor, the water was still rising very fast. Those peoples who were brought by the water were screaming asking for help. The water was black color and mix with a wooden leaf from the seafloor. About five minutes we were on the second floor of Mrs.Abes house, the water already reached the second floor. In an instant of time the water in the second floor reached of our shoulder. I lifted Mrs. Abes sons because they were not able to stand up again and we all were said tasbih. At that time, we had a mutual moment to forgiveness  each others with family and neighbors, we will go forever, and I thought it was time for the apocalypse. In a very critical time, there were some friends who climbed to the roof of the house, they saw the boat is heading to the place where we were which in the very difficult time and exhaustion. He said to riding in the boat. That time we saw the boat already snagged such as position today. We all quickly climbed into the boat. People who on top of the roof was the first person who climbed into the boat and the second one was Ustad Mujib. Anyone who were still at the bottom, will be push up to the top, Ustad Mujib pulled from the top boat and we all can be lifted into the boat. More or less there were only 25 people were in a hurry up in the beginning. And I was thinking that the boat came for the rescue and help the other elsewhere. When we got on the boat, no one else, excepted our group only. At that time we remembered that this boat was brought by an Angel to help us.
+
+Boat that we were in it, the head of the boat was in the wood-plank of Mr. Ahmed house. On the roof of Mr. Ahmad house were also a lot of peoples and they all fell into the boat that we&apos;ve been in it beforehand, so we were all numbered 59 people. At that time Mr. Ahmad, climbed up his own home.  And there was a girl who was swept away, when she was raised to the roof of the house and a lowered into the boat, the girl had swallowed a lot of water. We tried to help by pumping that water, because of  swallowed a lot of water and can not breathe anymore, the girl was eventually died in the boat. Given the weather was very hot, then I lifted her corpse and I took her to the left side of the boat so it does not overheat again, I faced her toward Mecca, folding her hands and I closed her by cloth in the boat.
+
+When we were in the boat, the women read the Wirid Yasin together and we seemed to be inside the house and there were some peoples said tasbih. The moment we saw to the west, which looks just Aceh Island  and Sabang Island, while others are not seen again had become a sea of ​​all. At the time it was seen big waves and Wak Kolak asked Mujib Ustad to call Azan. Ustad Mujib then keep reading azan and the wave breaking in estuary. We know the wave was breaking on the estuary, because of the houses from Peunayong were throwing up more quickly and washed away. Hose 10 minutes later, we saw a big wave and we call azan again. Approximately 7 times calling azan and one time by a police Airad. but only to sentences Asyhaduallailahailallah, he fainted because his pregnant wife was carried by tsunami waves  to another place and separated from him. All we pray that God saves us in the boat. If the waves had smashed into the ground, then our boat will be brought to the ocean by tsunami wave. Water was rising very hard and a lot of peoples were drifting, including bulls, we saw that the cemetery board was drifting not far away from our boat.
+
+Time was approximately 11:00 pm, the children had thirsty and asked to drink. At that time a bunch of young coconut drifting beside our boat and we pull into our boat and we all drank water. The content of coconuts was good and we all go to eat because we were hungry enough. Although the atmosphere was quite hot, we all pray that we all survived. Approximately 7 hours we were all in the boat and at 3 pm the water had started to recede and all of us got down. Given our location in the boat was some distance away with the second floor, so we were forced to wear a coincidence stairs was still there so we can got down one by one safely. We still keep the stairs. The water was still knee-high adults in the street and we then headed Peunayong. On the way we saw the bodies of dead peoples strewn over the road. There were peoples who have broken bodies and bloodied and asked for help with us. We only saw this condition and none of us to help. In Peunayong many corpses dead bodies, many shops were collapsed and we keep going until it gets to Simpang Lima. As we arrived at Simpang Lima, we watched all peoples were crying looking for mother, and crying looking for the child . When peoples gather in Simpang Lima, there was news that sea water was rise again, then all the people running to the Hospital Kesdam and when it also rained, the group peoples from the boat had also been split apart. I an my family and few others determined to return to our village in Indrapuri. It was late evening and raining. We all were 30, out of hospital Kesdam towards Simpang Surabaya and stop a small pickup truck to go to Simpang Surabaya. Even though we were all numbered as many as 30 people, but still fit in the car. Arrived at Simpang Surabaya, already dark and I saw sometimes the running  peoples were not dressed just only pants by holding the crying child. At that time we were in a dark condition, someone gave us bread one for each and after that this person was gone.  Around 23:00 pm the night, we borrowed a friend&apos;s motorbike that we can use to get a  car to return to our village in Indrapuri. There was a car, but no petrol, then we looked for another place and we get one labi labi to pick us up. Think about this when the time was shown at 01.00 in the middle night. More or less we were 30. thanks God we can fit all in the labi labi, even in the labi labi car there were also two sick peoples.  Arrived at our village, Indrapuri , Thanks God  at 02.00 in the night, we got meals from my younger sister. Family in the village at that time felt grateful that we were survived. We took refuge in the house of my younger sister amounted to 30 peoples. During two months we were in the village,  and after there were an existing NGOs to help peoples. Two years we lived in our house in the village and Alhamdulillah our house in Lampulo was still survived even hit by the earthquake and tsunami, only a little broken that needs to rehabilitation.
+
+This is our experienced, in the story of survivors in the boat. We are always grateful, that God is still saving our family so that we can improve our deeds while still given health and strength by God amen.</p>]]></description>
+			<Camera>
+				<longitude>95.32938019034238</longitude>
+				<latitude>5.568546405523265</latitude>
+				<altitude>871.6348837718572</altitude>
+				<heading>-6.818082164481479</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427758</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_2.Samsuddin</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32400269228685,5.575593391511539,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Mujiburijal</name>
+		<open>1</open>
+		<Style id="sh_3.Mujiburijal">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh6.googleusercontent.com/-3p4d-XSswUw/VPUU1uSDgUI/AAAAAAAFRb0/gItM4f8NGNQ/s100-no/3.Mujiburijal.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Mujiburijal Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh6.googleusercontent.com/-3p4d-XSswUw/VPUU1uSDgUI/AAAAAAAFRb0/gItM4f8NGNQ/s100-no/3.Mujiburijal.png"/></p>
+				<p class="evidence_name">Mujiburijal<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_3.Mujiburijal">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_3.Mujiburijal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_3.Mujiburijal</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_3.Mujiburijal">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh6.googleusercontent.com/-3p4d-XSswUw/VPUU1uSDgUI/AAAAAAAFRb0/gItM4f8NGNQ/s100-no/3.Mujiburijal.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Mujiburijal</name>
+			<description><![CDATA[<p class="evidence_indonesian">Pada tanggal 26 Desember 2204, lebih kurang pukul 08.10 wib, gempa bumi yang amat dahsyat mengguncang Kota Banda Aceh dengan kekuatan 8,9 skala richter. Semua orang waktu itu keluar rumah, takut roboh rumah dan semuanya mencari lapangan terbuka, termasuk kami sekeluarga dan para tetangga keluar rumah dan berdiri di atas badan jalan. Lebih kurang 25 orang, dan terbanyak adalah orang perempuan. Waktu itu semua pada menangis, dan saya menasehati untuk tidak menangis akan tetapi bertasbihlah atau Meuratep. Saya sudah berkumpul bersama keluarga dan anak saya Mujiburizal juga sudah kembali dari apel lapangan. Saat Mujiburizal tiba dirumah menceritakkan bahwa banyak bangunan yang telah roboh. Hotel Kuala Tripa yang berlantai tiga juga roboh dan rata dengan tanah. Demikian pula halnya Pasar Swalayan Pante Pirak juga roboh tapi tidak rata dengan tanah. Saat itu Ibu Abasiah minta tolong Mujiburizal untuk mengeluarkan mobil beliau dari garasi takut kalau rumahnya roboh akan menimpa mobil. Beliau punya dua mobil dan satunya dikeuarkan sendiri. Tidak lama kemudian terlihat orang-orang berlarian dari Tempat Pelellangan Ikan (TPI) Lampulo yang letaknya tidak jauh dengan rumah kami. Ikut bersama orang orang tersebut Kak Kolak bersama anak muda yang berlarian berteriak air laut naik, air laut naik. Tapi anak muda tadi tetap berlari mencari perlindungan, menurut kami mungkin dia hanyut dan langsung menghilang diterjang air. Sedangkan Kak Kolak langsung ke rumahnya sambil memberi tahu bahwa air laut sedang naik. Lantas saya beritahu kepada semua keluarga dan tetangga yang masih berada di atas jalan. Kita tidak boleh ada lagi disini, kita harus naik ke rumah Ibu Abes ada tingkat dua. Tanpa pikir panjang kami semua naik ke rumah Ibu Abes malalui tangga terus ke lantai dua. Saat itu air sudah mulai terlihat di atas badan jalan. Rupanya dasar laut terbelah, maka keluarlah segala isi dalam perut laut yang sudah terpendam beratus tahun, maka air laut naik ke daratan. Sesampainya kami di lantai duaair sedang naik terus dengan sangat kencang. Orang orang yang sedang dibawa air bah menjerit -jerit minta tolong . Airnya berwarna hitam pekat dan bercampur dengan daun kayu dari dasar laut. Kira-kira lima menit kami berada dilantai dua rumah Ibu Abes, airpun sudah terus naik hingga mencapai lantai dua. Dalam waktu sekejab air dilantai dua sudah mencapai sebahu kami. Anak Ibu Abes saya angkat sebab tidak bisa berdiri lagi dan kami semua bertasbih. Pada saat itu kami sudah saling maaf memaafkan sesama keluarga dan tetanga, kita akan berpisah untuk selamanya dan saya kiranya sudah saatnya kiamat. Dalam waktu yang sangat genting, ada kawan kawan kami yang naik ke atap rumah, mereka melihat boat sedang menuju ke tempat kami yang sedang sangat susah dan kepayahan. Dia bilang naik dalam boat. Waktu itu kami melihat boat tersebut sudah tersangkut seperti posisi sekarang ini. Kami semua dengan cepat naik ke dalam boat tersebut. Orang yang di atas atap merupakan orang yang pertama naik ke dalam boat dan orang yang kedua Ustad Mujib. Siapa saja yang masih di bawah di dorong ke atas, Ustad Mujib tarik dari atas boat dan kami semua dapat terangkat ke dalam boat. Lebih kurang pada awalnya ada 25 orang yang terburu-buru naik dan kami pikir boat itu akan menyelamatkan orang lainnya ditempat lain untuk membantu. Sesampainya kami di atas boat, tidak ada orang lain satupun, kecuali rombongan kami. Saat itu kami teringat bahwa boat ini dibawa Malaikat untuk membantu kami.
+
+Boat yang kami berada didalamnya, kepala sandarnya pada lesplang rumah Bapak Ahmad. Diatas atap rumah Bapak Ahmad orang orang juga banyak dan mereka semua turun kedalam boat yang kami sudah duluan berada di dalamnya, sehingga kami semua berjumlah 59 orang. Saat itu Bapak Ahmad, naik ketangga rumah sendiri dan disana terdapat seorang anak perempuan sedang hanyut. Saat itu dinaikkan ke atap rumah dan waktu diturunkan kedalam boat, anak itu sudah banyak terminum air. Kami berupaya untuk membantunya dengan cara memompa agar air yang terminum sama anak tadi dapat keluar. Berhubung sudah terminum banyak air dan tidak dapat bernafas lagi, akhirnya anak anak perempuan tersebut meninggal dunia di dalam boat. Mengingat cuaca sangat panas, maka saya angkat jenazah tersebut dan saya bawa ke sebelah kiri boat dan cuaca tidak panas lagi. saya hadapkan ke kiblat, tangannya saya lipat dan saya tutup dengan baju bekas orang boat.
+
+saat kami berada dalam boat orang perempuan membaca Wirit Yasin secara bersama sama dan kami seakan akan berada dalam didalam rumah dan ada juga yang bertasbih. saat itu kami melihat karah barat, yang nampak hanya Pulau Aceh dan Pulau Sabang, sedangkan lainnya tidak terlihat lagi hanya sudah menjadi lautan semua. Pada waktu itu masih terlihat gelombang besar dan ileh Wak Kolak minta agar Ustad Mujib dapat Azan. Lantas Ustad Mujib terus azan dan gelombang tadipun pecah di kuala. Kami mengetahui gelombang tadi pecah di kuala, karena rumah-rumah yang hanyut dari Peunayong ditolak ke atas lebih cepat. Selang 10 menit kemudian, nampak lagi gelombang besar dan kami azan lagi. Lebih kurang 7 kali kami azan dan satu kali di azan oleh seorang Polisi Airad. tapi Hazanilla hanya sampai kalimat Asyhaduallaila hailallah, dia jatuh pingsan karena istrinya sedang hamil terbawa gelombang tsunami ke tempat lain dan terpisah dengannya. Semua kami berdoa agar Allah menyelamatkan kami dalam boat tersebut. Seandainya gelombang tadi pecah ke darat, maka boat kami akan dibawa gelombang tsunami ke laut. Air semakin naik dengan kencangnya dan banyak orang yang hanyut termasuk lembu, kami lihat hanyut atas kuburan yang tidak jauh dari boat kami.
+
+Waktu sudah menunjukkan lebih kurang 11.00 wib, anak-anak sudah pada haus meminta minum. Saat itu hanyutlah kelapa muda satu tandan disamping boat kami dan kami tarik kedalam boat kami dan kami boleh serta meminum airnya. Isinya juga sudah keras dan kami semua ikut makan karena kami sudah cukup lapar. Walaupun dalam suasana yang cukup panas, kami semua berdoa agar kami semua selamat. Lebih kurang 7 jam kami semua berada di dalam boat dan pada pukul 3 sore air sudah mulai surut dan baru kami turun. mengingat lokasi kami dalam boat dengan lantai dua agak jauh, maka kami terpaksa memakai tangga yang kebetulan masih ada sehingga kami dapat turun satu persatu dengan selamat. Tangga tersebut sampai saat ini masih kami simpan. Air dijalan waktu itu masih selutut orang dewasa dan kami saat itu berangkat menuju Peunayong. Dalam perjalanan kami menyaksikan mayat mayat bertebaran diatas jalan. Ada orang yang sudah patah patah dan berlumuran darah minta tolong sama kami. Kami hanya melihat saja dan tidak satupun kami ambil. Di Peunayong banyak sekali mayat mayat bergelimpangan, toko-toko banyak yang roboh dan kami terus berjalan hingga sampai ke Simpang Lima. Sesampainya kami di Simpang Lima, kami menyaksikan semua pada menangis ada yang sedang mencari mamak, dan mencari anak sambil menangis. Saat orang berkumpul di Simpang Lima, ada berita air laut naiklagi, maka semua orang berlarian ke Rumah Sakit Kesdam dan saat itu juga turun hujan sehingga rombongan dalam boat tadi juga sudah terpisah pisah dan kami bersama keluarga dan beberapa oranag lainnya bertekad untuk pulang ke kampung kami di Indrapuri. Hari sudah menjelang malam dan juga suasana hujan. Kami semua berjumlah 30 orang, keluar dari Rumah Sakit Kesdam menuju Simpang Surabaya dan menyetop mobil pick up kecil untuk berangkat ke Simpang Surabaya. Sungguhpun kami semua berjumlah sebanyak 30 orang, namun masih muat dalam mobil tersebut. Setibanya di Simpang Surabaya, sudah gelap dan kami melihat yang berjalan kadang kadang tidak berbaju hanya celana saja dengan memegang anak dalam keadaan menangis. Saat itu kami dalam suasana kegelapan, ada orang memberikan roti seorang satu dan setelah itu orang tersebut menghilang. Sekitar pukul 23.00 wib malam, kami pinjam honda kawan untuk mencari mobil guna kami dapat pulang ke kampung kami di Indrapuri. Sesampainya dikampung kami di Indrapuri, memang ada mobil, tapi tidak ada bensin, lalu kami mencari ketempat lain dan kami dapat satu labi labi untuk menjemput kami. Kira kira saat itu waktu sudah menunjukkan pukul 1 malam. Lebih kurang kami berjumlah 30 orang. alhamdulillah kami bisa muat semua dalam labi labi, bahkan dalam mobil labi labi juga ada orang sakit dua orang. Alhamdulillah pukul 2 malam kami baru dapat makam di rumah adik kami. Keluarga di kampung waktu itu merasa bersyukur  kami selamat. Kami mengungsi di rumah adiksaya waktu itu berjumlah 30 orang. Selama satu bulan kami berada di kampung dan bantuan pun sudah mulai ada NGO-NGO. Dua tahun lamanya kami tinggal di kampung dan rumah kami di Lampulo Alhamdulillah masih selamat dari bencana alam gempa bumi dan gelombang tsunami, hanya rusak sedikit yang perlu di rehab.
+
+Demikianlah yang kami alami dalam kisah yang selamat dalam boat. Kami selalu bersyukur, dimana Allah masih menyelamatkan kami sekeluarga sehingga kami dapat meningkatkan amal ibadah selagi kami masih diberikan kesehatan dan kekuatan oleh Allah SWT amien.</p>
+			<p class="evidence_english">On December 26, 2204, at approximately 8:10 pm, a very powerful earthquake rocked Banda Aceh with the strength of 8.9 on the Richter scale. All the people were went out of the house, fear of houses collapsed and everyone was looking for an open space, including our family and neighbors out of the house and stood on the road. Approximately 25 peoples, and most were women. At that time everyone was crying, and I advised them not to cry but said Zikir or Meuratep. I&apos;ve been out with my family and children,  Mujiburizal who had come back from a morning assembly. When arriving home Mujiburizal said that many buildings have collapsed. Kuala Tripa Hotel which also collapsed flat on the ground. And Pante Pirak Supermarket a three-story also collapsed but no razed to the ground. At that time Mrs. Abasiah for help Mujiburizal to removed his car from the garage of her house because she was affraid when the house was collapsed will override of her car. She had two cars and one she brought out by her own. Not long later seen people running from Fish Auction (TPI) Lampulo not far to our house. Among them was Ka Kolak with young man running around, screaming &quot;sea water rise, sea water rise&quot;. But the young man was still running for cover, we think he might float hit the water and disappeared. While Kak Kolak directly to his house as he told me that the sea water has gone up. So I tell to the all of my family and neighbors were still on the road. We should not to longer here, we had to go up to the house of Mrs. Abes at level two. Without thinking, we were all climbed up Mrs. Abes house trough stairs. When the water has begun to look at the top of the road. Apparently the sea floor was split, then came out all of the contents of the sea that has been buried for hundreds of years, the sea water was up to the mainland. When we got to the second floor, the water was still rising very fast. Those peoples who were brought by the water were screaming asking for help. The water was black color and mix with a wooden leaf from the seafloor. About five minutes we were on the second floor of Mrs.Abes house, the water already reached the second floor. In an instant of time the water in the second floor reached of our shoulder. I lifted Mrs. Abes sons because they were not able to stand up again and we all were said tasbih. At that time, we had a mutual moment to forgiveness  each others with family and neighbors, we will go forever, and I thought it was time for the apocalypse. In a very critical time, there were some friends who climbed to the roof of the house, they saw the boat is heading to the place where we were which in the very difficult time and exhaustion. He said to riding in the boat. That time we saw the boat already snagged such as position today. We all quickly climbed into the boat. People who on top of the roof was the first person who climbed into the boat and the second one was Ustad Mujib. Anyone who were still at the bottom, will be push up to the top, Ustad Mujib pulled from the top boat and we all can be lifted into the boat. More or less there were only 25 people were in a hurry up in the beginning. And I was thinking that the boat came for the rescue and help the other elsewhere. When we got on the boat, no one else, excepted our group only. At that time we remembered that this boat was brought by an Angel to help us.
+
+Boat that we were in it, the head of the boat was in the wood-plank of Mr. Ahmed house. On the roof of Mr. Ahmad house were also a lot of peoples and they all fell into the boat that we&apos;ve been in it beforehand, so we were all numbered 59 people. At that time Mr. Ahmad, climbed up his own home.  And there was a girl who was swept away, when she was raised to the roof of the house and a lowered into the boat, the girl had swallowed a lot of water. We tried to help by pumping that water, because of  swallowed a lot of water and can not breathe anymore, the girl was eventually died in the boat. Given the weather was very hot, then I lifted her corpse and I took her to the left side of the boat so it does not overheat again, I faced her toward Mecca, folding her hands and I closed her by cloth in the boat.
+
+When we were in the boat, the women read the Wirid Yasin together and we seemed to be inside the house and there were some peoples said tasbih. The moment we saw to the west, which looks just Aceh Island  and Sabang Island, while others are not seen again had become a sea of ​​all. At the time it was seen big waves and Wak Kolak asked Mujib Ustad to call Azan. Ustad Mujib then keep reading azan and the wave breaking in estuary. We know the wave was breaking on the estuary, because of the houses from Peunayong were throwing up more quickly and washed away. Hose 10 minutes later, we saw a big wave and we call azan again. Approximately 7 times calling azan and one time by a police Airad. but only to sentences Asyhaduallailahailallah, he fainted because his pregnant wife was carried by tsunami waves  to another place and separated from him. All we pray that God saves us in the boat. If the waves had smashed into the ground, then our boat will be brought to the ocean by tsunami wave. Water was rising very hard and a lot of peoples were drifting, including bulls, we saw that the cemetery board was drifting not far away from our boat.
+
+Time was approximately 11:00 pm, the children had thirsty and asked to drink. At that time a bunch of young coconut drifting beside our boat and we pull into our boat and we all drank water. The content of coconuts was good and we all go to eat because we were hungry enough. Although the atmosphere was quite hot, we all pray that we all survived. Approximately 7 hours we were all in the boat and at 3 pm the water had started to recede and all of us got down. Given our location in the boat was some distance away with the second floor, so we were forced to wear a coincidence stairs was still there so we can got down one by one safely. We still keep the stairs. The water was still knee-high adults in the street and we then headed Peunayong. On the way we saw the bodies of dead peoples strewn over the road. There were peoples who have broken bodies and bloodied and asked for help with us. We only saw this condition and none of us to help. In Peunayong many corpses dead bodies, many shops were collapsed and we keep going until it gets to Simpang Lima. As we arrived at Simpang Lima, we watched all peoples were crying looking for mother, and crying looking for the child . When peoples gather in Simpang Lima, there was news that sea water was rise again, then all the people running to the Hospital Kesdam and when it also rained, the group peoples from the boat had also been split apart. I an my family and few others determined to return to our village in Indrapuri. It was late evening and raining. We all were 30, out of hospital Kesdam towards Simpang Surabaya and stop a small pickup truck to go to Simpang Surabaya. Even though we were all numbered as many as 30 people, but still fit in the car. Arrived at Simpang Surabaya, already dark and I saw sometimes the running  peoples were not dressed just only pants by holding the crying child. At that time we were in a dark condition, someone gave us bread one for each and after that this person was gone.  Around 23:00 pm the night, we borrowed a friend&apos;s motorbike that we can use to get a  car to return to our village in Indrapuri. There was a car, but no petrol, then we looked for another place and we get one labi labi to pick us up. Think about this when the time was shown at 01.00 in the middle night. More or less we were 30. thanks God we can fit all in the labi labi, even in the labi labi car there were also two sick peoples.  Arrived at our village, Indrapuri , Thanks God  at 02.00 in the night, we got meals from my younger sister. Family in the village at that time felt grateful that we were survived. We took refuge in the house of my younger sister amounted to 30 peoples. During two months we were in the village,  and after there were an existing NGOs to help peoples. Two years we lived in our house in the village and Alhamdulillah our house in Lampulo was still survived even hit by the earthquake and tsunami, only a little broken that needs to rehabilitation.
+
+This is our experienced, in the story of survivors in the boat. We are always grateful, that God is still saving our family so that we can improve our deeds while still given health and strength by God amen.</p>]]></description>
+			<Camera>
+				<longitude>95.32938019034238</longitude>
+				<latitude>5.568546405523265</latitude>
+				<altitude>871.6348837718572</altitude>
+				<heading>-6.818082164481479</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427758</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_3.Mujiburijal</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32424075961035,5.575844516104338,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Rina Ocvita</name>
+		<open>1</open>
+		<Style id="sh_4.RinaOcvita">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-hKOK1Olfe9I/VPUU3LegvNI/AAAAAAAFRcQ/JRq54w5lXqQ/s100-no/4.RinaOcvita.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Rina Ocvita Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh3.googleusercontent.com/-hKOK1Olfe9I/VPUU3LegvNI/AAAAAAAFRcQ/JRq54w5lXqQ/s100-no/4.RinaOcvita.png"/></p>
+				<p class="evidence_name">Rina Ocvita<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_4.RinaOcvita">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_4.RinaOcvita</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_4.RinaOcvita</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_4.RinaOcvita">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-hKOK1Olfe9I/VPUU3LegvNI/AAAAAAAFRcQ/JRq54w5lXqQ/s100-no/4.RinaOcvita.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Rina Ocvita</name>
+			<description><![CDATA[<p class="evidence_indonesian">Saya Rina Ocvita ingin bercerita tentang kehidupan pribadi saya, di mulai dari sebuah keluarga yang sangat bahagia. Ayah saya bernama Ridwan Ibbas Kepala Laboratorium Perikanan Lampulo. Ibu saya bernama Nurllaila dan saya memiliki 2 orang adik yang bernama Muammal Mirza dan Agam Fauzan. Pada tanggal 26 Desember 2004 Gempa dan tsunami telah menghancurkan dan meluluhlantakkan semua fasilitas, sarana dan prasarana yang ada serta ratus ribu ummat manusia meninggal dunia akibat ditimpa musibah berupa gempa bumi dan gelombang tsunami yang maha dahsyat yang Allah berikan sebagai peringatan bagi hambanya.
+
+Pada pagi Minggu tanggal 26 Desember 2004 kami sekeluarga berkumpul di rumah, pada pukul 08.00 wib saat gempa terjadi yang sungguh sangat kuat. Kami sekeluarga merasa takut dan keluar dari rumah duduk di halaman depan, tak lama kemudian kami melihat ada orang berlarian sambil berteriak air laut naik - air laut naik….begitu terus yang kami dengar. Bapak saya berkata ayo kita lari naik mobil, kami semua pun masuk kedalam mobil dan pergi dari rumah, di dalam perjalanan saya melihat banyak orang orang berlarian dan tiba-tiba bapak membelokkan mobil ke jalan buntu. Bapak berkata turun-turun cepat dari mobil karena air lautnya sudah meluap dari sungai, saya bersama adik dan ibu terjebak di dalam bobil tidak bisa keluar. Namun akhirnya dengan pertolongan Allah kami dapat juga keluar dari mobil dan berlarian keluar. Saat itu saya melihat adik saya Agam Fauzan di gendong oleh Bapak dan mereka naik ke atas pagar. Saya panggil Bapak, Bapak, Bapak, tapi beliau tidak memberikan jawaban apapun kemudian saya terus berlari bersama ibu dan adik saya Muammal Mirza dan kamipun naik ke rumah Pak Muhammad. Tidak lama kemudian kami menyaksikan bapak dan adik kami yang kecil Agam Fauzan di gulung ombak gelombang tsunami, kami ingin menolong tapi tidak bisa karna arusnya terlalu deras. Kami juga dibawa arus karena rumahnya hampir tenggelam, sehingga kami terdampar di atas atap rumah. Tiba-tiba datang Bapak Khalik, beliau mengajak kami naik ke atas kapal yang tersangkut di rumah Ibu Abes, dari atas kapal saya melihat kedahsyatan gelombang tsunami meluluh lantakkan semua sraana dan prasarana yang ada baik rumah dan bangunan-bangunan lainnya. Kami semua yang berada di atas bot hanya bisa berdoa dan memohon ampun kepada Allah SWT semoga ini semua bukanlah akhir dari dunia ini.
+
+Pada pukul 03.00 wib airpun mulai suurut sedikit demi sedikit. Semua orang yang berada di atas kapal merasakkan kelaparan dan kehausan tiba-tiba datang Bang Dani memberikan kami semua buah kelapa yang entah dari mana dia dapatkan. Pada pukul 04.00 wib kami semua pun turun dari boat menuju ke kota, sesampai di RS Kesdam kami di tolong oleh keluarga Bang Zulfikar dan kamipun dibawa ke Indrapuri. Disanalah kami mengungsi sementara, sedangkan rumah harta benda dan orang tua kami tercinta serta adik kami tersayang telah dipanggil oleh Allah SWT. Semoga bapak dan adik kami Agam Fauzan mendapat tempat yang layak disisi Allah SWT, diterima amal ibadahnya dan di ampuni segala dosanya. Amin ya Rabbal Alamin.
+.</p>
+			<p class="evidence_english">My name is Rina Ocvita, I want to tell you about my personal life, start of a very happy family. My father named Ridwan Ibbas, Chief Fisheries Laboratory of Lampulo. My mother named Nurllaila and I had 2 brothers named Muammal Fauzan Mirza and Agam. On December 26, 2004 earthquake and tsunami had destroyed and devastated all of the amenities, facilities and infrastructure as well as hundreds of thousands of human beings died from a giant earthquake and tsunami, that Allah almighty gave it to us as a warning to his servant.
+
+On Sunday morning December 26, 2004 our family gathered at home, at 08.00 pm when the earthquake occurred is indeed very strong. Our whole family felt scared and out of the house sitting in the front yard. Not long after, we saw people running while screaming &quot;sea water rising - rising sea water ...&quot;, it was continues what we&apos;ve heard. My father said &quot;Let&apos;s running by the car&quot;, all of us into the car and went from our house. On the way, I saw a lot of peoples were running and suddenly my father turned the car into a dead end. My father said, &quot;Get out from the car quickly because the sea water has overflowed from the river&quot;, along with my mother and my brother we were trapped inside the car can not get out. But finally with the help of Allah we can also got out of the car and ran out. At that time I saw my father carrying my brother, Agam Fauzan, they climbed up to the top of the fence. I called him, &quot;Father...father...father...&quot;, but he did not give any answer then I kept running with my mother and my brother Muammal Mirza and we were also climbed up to the house of Mr Muhammad. 
+Not long after this,  we watched our father and younger brother Agam Fauzan were rolled by tsunami waves, we wanted to help but could not because the water current was too swift. We were also carried by currents because the house was almost drowned, so we were stranded on the roof of the house. Suddenly came Mr. Khalik, he took us up to the top of the stuck ship at the house of Mrs. Abes, from the ship I saw an awesomeness tsunami,  devastated all the amenities, facilities and infrastructure both houses and other buildings. All of us were  above the bot can only pray and ask forgiveness to Allah SWT, I hope this all was not the end of the world.
+
+At 03.00 pm the water had started to recede little by little. All the people who were on board feel the hunger and thirst, suddenly came Bang Dani gave all of us the coconuts that we did not know came from where. At 04.00 pm we all came down from the boat to the city, when we reached the Kesdam hospital, we followed Bang Zulfikar who brought us to his family in Indrapuri. Therein we evacuate temporarily, while the house property and our beloved parents and dear brother have been called by Allah. Hopefully our father and younger brother Agam  Fauzan got a decent place beside Allah SWT, accepted his good deeds and forgive all his sins. Amin Ya Rabbal Alamin.</p>]]></description>
+			<Camera>
+				<longitude>95.32938019034238</longitude>
+				<latitude>5.568546405523265</latitude>
+				<altitude>871.6348837718572</altitude>
+				<heading>-6.818082164481479</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427758</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_4.RinaOcvita</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32446210261132,5.576225681584294,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Mahdani</name>
+		<open>1</open>
+		<Style id="sh_5.Mahdani">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh4.googleusercontent.com/-gy0IGxDVeMs/VPUU7UTCPRI/AAAAAAAFRfY/WuYRdYydDxg/s100-no/5.Mahdani.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Mahdani Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh4.googleusercontent.com/-gy0IGxDVeMs/VPUU7UTCPRI/AAAAAAAFRfY/WuYRdYydDxg/s100-no/5.Mahdani.png"/></p>
+				<p class="evidence_name">Mahdani<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_5.Mahdani">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh4.googleusercontent.com/-gy0IGxDVeMs/VPUU7UTCPRI/AAAAAAAFRfY/WuYRdYydDxg/s100-no/5.Mahdani.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_5.Mahdani">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_5.Mahdani</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_5.Mahdani</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Mahdani</name>
+			<description><![CDATA[<p class="evidence_indonesian">Pertama Sebelum kejadian hari minggu tanggal 26 Desember 2004, saya bekerja sebagai pedagang ikan. Pada waktu hari Minggu itu sekitar jam 04.30 wib, saya sampai ke Tempat Pelelangan Ikan (TPI) Lampulo. Kebetulan pada hari itu ikannya kurang, jadi saya tidur lagi. Setelah bangun saya kembali bekerja membongkar ikan. Saat sedang bongkar ikan sekitar pukul 07.00 wib terjadi gempa yang amat dahsyat. Kapal boat yang sedang bongkar ikat sempat beradu dengan dermaga. Sebagian orang boat minta tolong untuk membuka tali ikatan boatnya agar tidak beradu dengan dermaga. lalu saya berusaha membukanya, tetapi tidak sempat membuka lagi dan saya punya pisau di kantong lalu saya potong tali ikatan boat. Setelah itu boat tidak beradu lagi dengan dermaga. Saat itu saya menyaksikan gedung Tempat pelelangan Ikan (TPI) telah roboh dan ambruk. Setelah itu saya mohon izin pada Ibu kandung saya yang juga sehari-hari berjualan di lokasi TPI. Ibu mengatakan, ya nak, kamu pulang terus lihat anakmu bagaimana kondisinya dirumah. Tak lama kemudian saya tiba dirumah dengan selamat. Alhamdulillah keluarga kami semuanya dalam keadaan selamat dan waktu itu suasana masih diguncang gempa. Semua kami duduk dijalan sambil berdoa dan berzikir.
+
+Sedang beberapa saat kemudian Ibu saya pulang ke rumah, lalu berteriak teriak, lari - lari, lari, cepat cepat naik kerumah Tante Abes pada lantai dua. Tak lama kemudian air laut semakin melimpah dengan sangat cepat dalam menit-menit berikutnya, tiba-tiba ada suara dentuman yang menghantam rumah. Setelah itu kami pasrah dan dalam hati berkata, “Ya Allah Ya Tuhanku selamatkanlah semua hambamu ini”.
+
+Pada waktu itu saya sempat melihat air laut naik, secara tidak sadar membuka pintu depan rumah tingkat dua, lalu dalam hati saya mengucapkan Bismilahhirahmanirrahim, saya membuka pintu itu. Tiba-tiba saat pintunya terbuka, gagang pintunya patah, saya mencoba membuka lagi, Alhamdulillah pintunya pun terbuka. Setelah saya melihat ada kapal yang bersandar di atas rumah. Lalu saya mengatakan , cepat-cepat, keluar, kita naik keatas boat ini. Pertama saya naik, dan sesampai diatas boat, saya tarik satu persatu kedalam boat. Setelah itu kami duduk semua di dalam boat sambil berzikir, mengaji dan azan. Tanpa saya menyadari, saya turun lagi kebetulan ada pohon kelapa yang jatuh dan hanyut dalam air, lalu saya memotong tiga tandan dan saya suruh orang-orang di atas boat untuk mengambil tali untuk mengikat tandan kelapa dan saya bawa naik ke atas boat. Sesudah selesai semua, kamipun kehausan di dalam boat dan kami semuanya minum air kelapa untuk menghilangkan rasa haus kami.
+
+Satu jam kemudian air sudah mulai surut dan kami pun turun dari atas boat, untuk sama sama menuju ke kota. Tiba-tiba sampai ditengah jalan, saya mendengar suara orang berteriak dan memaki-maki, lalu saya melihat orang itu, rupanya saya melihat kakinya hampir putus. Lalu saya berkata, sudahlah Pak, kita semua sama-sama musibah. Saya menyedarkan orang itu sambil mngucapkan Istighfar, Alhamdulillah orang itupun sadar atas apa yang menimpa dirinya. Setelah itu kami baru berangkat lagi menuju ke kota .</p>
+			<p class="evidence_english">First, before the incident Sunday December 26, 2004, I worked as a fishmonger. At the time it was about an hour Sunday 4:30 pm, I got to the Fish Auction Place (TPI) Lampulo. Incidentally  less on the number of fish, so I slept again. After woke up, I went back to work to dismantle the fish. While we were dismantle the fish, at around 07.00 pm a very powerful earthquake was occur. The boat was dismantle  the fish had collided with the dock. Some people on the the boat asked for help to open the rope of the boat who attached, so as not to collide with the dock. Then I tried to open it, but can not open anymore, and I had a knife in my pocket, then I cut the rope ties of the boat. Then the boat not collide with the dock anymore. At that time I watched the fish auction place building (TPI) has collapsed and fallen. After that, I beg to my Mother who was also selling daily in TPI location to leave the area. My mother said, &quot;Yes son, you have to go home and see your son and how is your home&quot;. Not long after I arrived home safely. Thanks Allah, all of our families were safe, at the time the aftershocks was still happen. We all sat down on the street while praying and zikir.
+
+A few moments later, my mother came home, cried and yelled, &quot;run, run, run, quickly quickly rose to the second floor of the house of Aunty Abes&quot;. Soon the abundant sea water very quickly. In the next minute, suddenly there was the sound boom that hit home. After that we were resign and silently said, &quot;Ya Allah, O my Lord save all your servant&quot;.
+
+At that time I saw the sea level rose, I unconsciously opened the front door of the two-level house, and in my heart said Bismillahirrahmanirrahim, I opened the door. Suddenly the door was open, the handle of the door was broken, I tried to open again, Alhamdulillah the door was open. Once I saw a ship that stranded on top of the house. Then I said, &quot;quick, get out, we have to climbed to the top of this boat&quot;. First, I climbed up, and when I reached the boat, I pulled other people one by one into the boat. After that we all sat in the boat while reading quran, zikir, chanting and azan. I did not realized, I went back into the water because there was a fallen coconut trees and washed away, then I was cutting three bunches and I told the peoples on the boat to take a rope to tie the bunches of coconut and I took it up to the top of the boat. After completion of all, we were thirsty in the boat and all of us were drank the coconut water to relieve our thirst.
+
+One hour later the water has started to recede and we came down from the top of the boat, together heading into the city. Suddenly until the middle of the road, I heard the sound of people shouting and cursing, then I saw him, I saw his legs apparently almost severed. Then I said, &quot;Well sir, we are all equally unfortunate&quot;. I revive him, while he said Istighfar, Alhamdulillah he was realized of what happened to him. After that we went to the city.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_5.Mahdani</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32496603913883,5.576131152929112,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Ade Faulinda</name>
+		<open>1</open>
+		<Style id="sh_6.AdeFaulinda">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh4.googleusercontent.com/-1c7WdDjChOM/VPUU_kahZLI/AAAAAAAFReE/Ur8ACRWv8U4/s100-no/6.AdeFaulinda.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Ade Faulinda Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh4.googleusercontent.com/-1c7WdDjChOM/VPUU_kahZLI/AAAAAAAFReE/Ur8ACRWv8U4/s100-no/6.AdeFaulinda.png"/></p>
+				<p class="evidence_name">Ade Faulinda<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_6.AdeFaulinda">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_6.AdeFaulinda</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_6.AdeFaulinda</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_6.AdeFaulinda">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh4.googleusercontent.com/-1c7WdDjChOM/VPUU_kahZLI/AAAAAAAFReE/Ur8ACRWv8U4/s100-no/6.AdeFaulinda.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Ade Faulinda</name>
+			<description><![CDATA[<p class="evidence_indonesian">Pagi itu sangat tenang, pada tanggal 26 Desember 2004 saya Ade Faulinda salah seorang anak dari keluarga Ibu Ema, saya, abang dan nenek sedang melakukan aktivitas masing- masing, sedangkan ibu saya sedang menyiapkan sarapan pagi. Saya sendiri sedang membenahi-benahi rumah. Setelah selesai semua kamipun akan mulai sarapan pagi, tepatnya kira-kira pukul 08.00 wib. Saat saya akan menyuap nasi ke mulut, tiba-tiba terasa getaran yang sangat keras selanjutnya goncangan yang begitu keras dan secara spontan saya berteriak “gempa gempa” dan kamipun berlarian keluar rumah, saya ibu dan nenek saya berpelukan dan terduduk didepan  rumah. Tidak henti-hentinya kami mengucapkan “SUBHANALLAH” begitu dahsyatnya gempa untuk berdiri saja kami tidak mampu. Selang beberapa menit gempa berlalu kami masuk kedalam rumah, lalu ibu memeriksa keadaan rumah “ALHAMDULILLAH” rumah kami tidak ada yang rusak sedikitpun. Lalu kami menurunkan barang-barang yang ada seperti TV dan jam dinding. Kemudian saya bertanya kepada ibu saya, “untuk apa barang-barang itu diturunkan?”, Ibu menjawab untuk berjaga jaga apabila gempa susulan itu tiba. Kemudian kami keluar dari rumah dan kami berdiri di samping rumah untuk menghindari gempa susulan.
+
+Didepan rumah tetangga saya yang bernama Tante Abes, saya, ibu, dan nenek saya berdiri melihat-lihat rumah yang rusak karena gempa tadi. Tidak lama kemudian kira-kira 20 menit saya terkejut melihat orang-orang pada berlarian dan para nelayan pun berlarian masuk ke lorong rumah kami, sambil berteriak, “AIR LAUT NAIK”, tidak lama kemudin saya, ibu dan nenek saya berlari ke atas tingkat rumah tetangga saya, dan diikuti abang saya yang berlari untuk naik ke atas tingkat rumah. Lalu saya melihat air dari kejauhan “hitam sebesar gunung” akan menuju ke tempat kami. Pada waktu itu saya berfikir apakah ini yang dinamakan kiamat? “ALLAHU AKBAR”, tak henti-hentinya saya mengucapkan sambil menangis, lalu saya menuju ke atap rumah bersama abang saya lalu ibu saya pun ikut bersama kami, sedangkan nenek saya masih berada di atas tingkat rumah dan berusaha menyelamatkan diri berpegangan dengan tali jemuran. 
+
+Dari situlah saya dapat melihat kebesaran ALLAH SWT. Saya melihat rumah rumah dihanyutkan oleh gelombang tsunami yang begitu besar, dan tak lama kemudian saya melihat dari kejauhan ada kapal besar dengan cepat meluncur di bawa gelombang, menuju dimana tempat kami berdiri, seperti akan menabrak rumah itu dan saat itu timbul harapan kami untuk menyelamatkan diri dengan menaiki kapal itu. Kemudian abang saya langsung menggendong saya untuk naik ke atas kapal itu, tetapi tiba-tiba  atap rumah yang akan kami lewati untuk menaiki kapal itu, ditabrak oleh kapal itu dan kemudian kami pun terjatuh ke bawah air yang penuh dengan puing puing reruntuhan rumah. Saya pun terjepit dengan kayu, Ibu dan abang saya berada di dekat saya dengan tidak berdaya saya pasrah kepada Allah, semakin lama semakin terjepit. saya merasa inilah akhir hidup saya, kemudian abang saya mngatakan agar saya jangan putus asa. saya dan Ibu saya harus berusaha untuk selamat. Tidak lama kemudian, gelombang kedua itu menghempas dan kapal yang menghimpit sayapun terlepas. saya pun bisa keluar dan menyelamatkan diri, sebaliknya abang saya dan ibu berusaha untuk naik ke atas kapal itu. akhirnya kamipun selamat untuk naik keatas dan langsung abang saya mencari nenek saya untuk berkumpul di atas kapal itu. Saya takut melihat ibu saya yang terluka parah. Kami pun berkumpul di atas kapal itu, dan banyak orang yang selamat di kapal itu. Kami berada dan bertahan di atas kapal tanpa makanan sampai pukul 16.00 wib, baru kami turun bersama rombongan untuk mencari keluarga yang belum bertemu. Saya dan keluarga bergegas untuk mencari kakak dan yang lainnya di sepanjang jalan saya melihat mayat yang bergelimpangan dari reruntuhan rumah yang parah. Dalam hati saya berkata “ALHAMDULILLAH” kami telah diberi hidup keuda.
+
+Demikianlah pengalaman saya dari tragedi tsunami yang melanda Banda Aceh. Kita manusia tidak tau apa yang diberikan dan dikehendaki Allah, bagaimana mungkin di hari Minggu yang tenang dan cerah itu tiba-tiba dengan sekejap mata bisa berubah menjadi porak-poranda dan hancur seketika dalam hitungan detik. Kalau Allah menghendaki apapun bisa terjadi.</p>
+
+			<p class="evidence_english">The morning was very quiet, on December 26, 2004, I am Ade Faulinda one of the children of Mrs. Ema. I, my brother and my grandmother were doing our own activities, while my mom was preparing breakfast. I was cleaning my house. After completion of all us were start to breakfast, to be exact approximately 08:00 am. When I would bribe rice to mouth, suddenly felt vibrations that was very hard, so hard, and I spontaneously shouted &quot;earthquake earthquake&quot; and we also ran out of the house, my mother and my grandmother hugging and sitting in front of the house. Endlessly we said &quot;Subhanallah&quot;, so the enormity of the earthquake, for we were not able to stand alone. After a few minutes the earthquake was over, we went inside our house, then my mother checked the condition of the house, &quot;Alhamdulillah&quot; our house was not damaged at all. Then we lowered the existing items such as TVs and clocks. Then I asked to my mother, &quot;for what it was stuff unloaded?&quot;, She replied just in case in any aftershocks. Then we came out of the house and we stood beside the house to avoid aftershocks.
+
+In front of my neighbor&apos;s house named was aunt Abes, me, my mother, and my grandmother were standing looking at houses that had been damaged by the earthquake. Not long after this, approximately 20 minutes later, I was surprised to see peoples running around and the fishermen were running went into the hallway of our house, shouting, &quot;SEA WATER RISE&quot;. Few minutes later, me, my mother and grandmother ran to the top level of my neighbor&apos;s house. Me and my brother ran to climb to the top level of the house and followed my mother. Then I saw the water from the far distance &quot;the black water as big as mountain&quot; will be heading to our place. At that time, I was thinking the apocalypse? &quot;ALLAHU AKBAR&quot;, I said while crying. Then I headed to the roof of the house with my brother and my mother had to come with us, while my grandmother was still in the top level of the house and tried to save her selves holding a rope clothesline.
+
+That&apos;s where I can see the greatness ALLAH SWT. I saw homes washed away by the tsunami wave was so great. And shortly thereafter I saw from a distance there is a large ship quickly slid in the wave, towards the place where we stand, as it was will hit this house. And when it came our hope to save ourselves by climbing the ship. Then my brother immediately carried me to rise to the top of the ship. But suddenly the roof of the house which will be used as a way to boarding the ship, was hit by the ship and then we were falling into the water which filled with debris rubble. I also pinched by wooden of the ship, my mother and brother were near with me, helpless and surrender to ALLAH, I was more and more pinched. I felt this was the end of my life, then my brother said, I was not allowed to be despair. I and my mother have to be survived. Not long later, the second wave slammed of ships and I became detached. I was able to get out and save my selves, while my brother and my mother trying to rise to the top of the ship. Finally we were safe to rise up to the ship, and directly my brother was looking for my grandmother to joint together on board. I was afraid to see my mother who was seriously injured. We were gathered at the top of the ship, and many survivors on board. We were on the ship and survived without food until 16:00 pm, we were down and our new troupe together to find a family that has not been met. Me and my family rushed to find another family member, along the way I saw corpses and the ruins of the house were severe. In my heart I said, &quot;ALHAMDULILLAH,&quot; we have been given a second life.
+
+So it was my experience of the tsunami tragedy that hit Banda Aceh. We humans do not know what is given and willed by ALLAH. How could in the a quiet bright Sunday and it suddenly with a blink of an eyes can turned into the ravaged and destroyed instantly in seconds. If ALLAH wills anything can be happen.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_6.AdeFaulinda</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32543459603176,5.575875079342362,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Erlina Mariana</name>
+		<open>1</open>
+		<StyleMap id="msn_7.ErlinaMarliana">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_7.ErlinaMarliana</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_7.ErlinaMarliana</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_7.ErlinaMarliana">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-_FYqKXKO4MU/VPUVB7L3DZI/AAAAAAAFRe0/glpu_nYjqOU/s100-no/7.ErlinaMarliana.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Style id="sh_7.ErlinaMarliana">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-_FYqKXKO4MU/VPUVB7L3DZI/AAAAAAAFRe0/glpu_nYjqOU/s100-no/7.ErlinaMarliana.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Erlina Mariana Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh3.googleusercontent.com/-_FYqKXKO4MU/VPUVB7L3DZI/AAAAAAAFRe0/glpu_nYjqOU/s100-no/7.ErlinaMarliana.png"/></p>
+				<p class="evidence_name">Erlina Mariana<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Erlina Mariana</name>
+			<description><![CDATA[<p class="evidence_indonesian">Di pagi Minggu 26 Desember 2004, seperti biasa karena tidak ada kegiatan apap pun yang saya lakukan, saya masih tertidur lelap hingga saya dibagunkan oleh guncangan gempa yang sangat dahsyat, secara spontan saya pun lari keluar rumah dan melihat para tetangga telah berhamburan di luar rumah. dan kami pun berkumpul dijalan dan duduk di tanah sambil terus menerus berzikir tanpa henti dalam keadaan gempa masih berlangsung. Sambil berzikir saya pun menangis mengingat mamak yang sedang berjualan di Proyek Tempat Pelelangan Ikan. Pda saat itu sempat terlintas di fikiran saya Surat Qur`an; Az-Zalzalah, Ayat 1-2, Dimana dalam ayat tersebut Allah berfirman artinya, “Apabila bumi digoncangkan dengan goncangnya (yang dahsyat), dan bumi mengeluarkan beban-beban berat nya”.  Saya pun memikirkan mungkin saja akan terjadi sesuatu, tapi fikiran itu langsung saya alihkan, sambil terus berzikir dan minta pertolongan kepada ALLAH SWT hingga gempa pun berhenti.
+
+Selang beberapa menit setelah gempa berhenti, mamak pun pulang dari Tempat Pelelangan Ikan (TPI) Lampulo yang juga tidak jauh dari rumah kami dengan tergesa-gesa dengan wajah wajah yang pucat, kemudian Kak Ita menyarankan untuk memberikan minum kepada mamak, saya pun langsung masuk kedalam rumah untuk mengambil minum. Setelah keadaan mamak tenang, mamak langsung merapikan barang dagangannya untuk dibawa pulang, tiba-tiba datang nelayan yang baru pulang dari laut sambil berteriak menyatakan, “ie laot ka di ek, ie laot ka di ek (air laut naik, air laut naik)”, Setelah mendengarkan seruan orang itu, tanpa berfikir panjang dan mamak merasa seperti ada bisikkan, “ka ploung laju, ka ek u rumoh dua tingkat (kamu lari dan naik kerumah berlantai dua”, yang mamak yakini bisikkan tersebut dari Malaikat.
+
+Mamak pun berlari pulang ke rumah, sesampai nya di ujung jalan rumah kami mamak berteriak dengan histeris nya sambil memanggil, “Abes…, Atik...ie laot ka di ek, ta ek laju u wateueh rumoh bertingkat, (air laut dan dan langsung naik ke rumah bertingkat)”. Setelah mamak menginstruksikan kami semua untuk naik ke rumah berlantai dua, saya pun langsung masuk kedalam rumah untuk mengambil kain sarung. Kemudian saya kembali keluar untuk segera naik ke lantai dua rumah Ibu HErlina Mariana. Tanpa saya sadari ternyata mamak dan beberapa tetangga telah lari kerumah Ibu HErlina Mariana, namun saat itu saya terpaku ketika melihat gelombang yang begitu tinggi yang siap menghanntam dan menghanyutkan apapun yang ada di depannya. Sampai saya mendengar suara dari Agin, “Ka Butet naik ke atas terus”. Saya dan Agin langsung menyusul yang lain nya naik ke lantai dua rumah tersebut. Sedangkan Ibu Atik beserta anaknya naik ke atas rumah nya sendiri yang berlantai dua, diikuti oleh tetangga yang lain.
+
+Setelah dilantai dua rumah Ibu HErlina Mariana, sempat terfikir oleh saya untuk turun, namun niat itu saya urungkan setelah melihat air yang hitam pekat dengan kecepatan yang begitu dahsyat telah memenuhi lantai bawah dan sekejab mata telah menggenangi lantai dua, yang kira-kira setinggi dada atau dagu orang dewasa. Di lantai du ada beberapa keluarga di dalam nya terdiri dari Keluarga Ibu hErlina Mariana, keluarga Ibu Fauziah, Kak Mar dan beberapa orang yang saya tidak ingat namanya. Kami mendengar gemuruh yang sangat keras yang berasal dari gelombang yang menghantam dan menghanyutkan apa saja yang ada di hadapannya. Kami tiada henti-hentinya berzikir, menyebut nama Allah dan terus menerus meminta pertolongan-Nya. Mungkin pada saat itu kami semua berfikir disitu-lah ajal kami, setiap keluarga meminta maaf atas kesalahan masing-masing. Saya pun meminta maaf atas kesalahan yang pernah saya lakukan.
+
+Tidak berapa lama terdengar suara dentuman yang begitu keras yang menghantam rumah tersebut, Kemudian terdengar suara teriakan dari Bang Zoel yang berada di atap rumah mengatakan kepada Bang dani, “Dani, Dani na kapai ka sangkot di ateuh rumoh, bagah ka peu ek awak nyoe u wateuh kapai (Dani, Dani ada kapal yang tersangkut di atas rumah, cepat naikkan semua orang ke atas kapal)”. Saya tidak tahu gelombang keberapa kapal tersebut di bawa ke rumah Ibu HErlina Mariana. saya berfikir kapal ini adalah kapal yang dikirimkan oleh ALLAH SWT untuk menyelamatkan kami semua. Bang Dani, pun bergegas membuka pintu keluar, yang tadinya tertutup untuk menghambat perputaran air yang menggenangi lantaidua. Setelah pintu terbuka, entah bagaimana cara kami satu persatu ditarik naik ke dalam kapal.
+
+Tak lama berselang datang keluar Ibu Raden Mah disusul keluarga Pak Khalik. Di dalam kapal kami terus berzikir, bertasbih dan bertahmid menyebut nama ALLAH SWT tiada hentinya. Kami dapat melihat gelombang yang silih berganti berdatangan dan gempa pun masih terus terjadi. Setiap gelombang datang Bang Mujiburizal dan seorang polisi mengumandangkan azan.
+
+Dari atas kapal saya melihat rumah saya yang luluh lantak dan melihat air yang kerush telah menggenangi seluruh Lampulo. Hanya beberapa atap rumah yang berlantai dua yang dapat saya lihat. Pada saat itu saya dan mamak dan beberapa keluarga lainnya masih terus berzikir. Tanpa terasa kami telah berada di atas kapal sampai kira-kira jam 16.00 wib. Dan syukur Alhamdulillah seluruh keluarga saya selamat semua. Setelah melihat air telah surut, kami semua turun dari kapal menuju ketempat yang lebih aman. Setelah turun dari kapal kami harus berjalan ke arah kota, kami harus menghadapi genangan air yang kira-kira tingginya sepaha orang dewasa, sepanjang jalan menuju ke kota saya melihat rumah-rumah dan toko-toko telah hancur berkeping-keping dan menutupi badan jalan, dan begitu banyak mayat yang berserakan. Setelah berjalan kira-kira 1 jam, sampai saya dan mamak ke Simpang Lima dan kamipun menuju Rumah Sakit KESDAM. Setelah kami beristirahat sebentar sambil memakan makanan ringan yang kami dapat ketika berjalan menuju Simpang Lima yang terhanyut di bawa air. Dan tidak lama kemudian saya dan mamak memutuskannaik mobil Tentara untuk menuju ke Mata Ie tempat yang lebih aman. Alhamdulillah di Mata Ie memiliki famili dan untuk sementara waktu kami tinggal bersama mereka.
+
+Syukur Alhamdulillah, ALLah SWT masih memberikan kami kesempatan untuk dapat hidup dan memperbaiki diri menjadi pribadi yang lebih baik, selalu berbuat baik kepada orang lain dan terus bersyukur serta selalu mengingat ALLAH, malekukan segala perintah-Nya dan manjauhi semua larangan-Nya.</p>
+
+			<p class="evidence_english">On the morning of Sunday, December 26, 2004, as usual because there was no activity I did, I was fast asleep until I woke up by a very powerful earthquake shocks. I spontaneously ran out of the house and saw the neighbors have scattered outside the home. And we had gathered on the street and sit on the ground while zikir continuously without stopping in an earthquake was still going. While I was cried remembering remembrance my mother which was selling in the Project Fish Auction (TPI) area. When it had crossed my mind, Quran Surah; Az-Zalzalah, Section 1-2, where the meaning of the verse that, Allah says, &quot;When the earth is shaken with convulsions (which is terrible), and earth releasing his heavy burdens&quot;. I was thinking maybe something will happen, but my mind was instantly switch, while continuing remembrance and ask for help to ALLAH SWT until the earthquake stopped.
+
+A few minutes after the earthquake was stops, my mother went home from the Fish Auction Place (TPI) Lampulo, which was also not far from our house, with the haste and faces pale. Then Kak Ita advised me to give her a drink, I went straight into the house to grab a drink. After my mother was becoming calm, She was immediately smoothed wares to take home. Suddenly came the fishermen who had just returned from the sea, screaming said, &quot;ie laot ka di ek, ie laot ka di ek (sea water rising, sea water rising)&quot;. After listened to this man, no more thinking, and my mother felt like there was whispering, &quot;ka ploung laju, ka ek u rumoh dua tingkat (you have to run and rose into the two-storey house&quot;, the mother believed that the whisper of Angel.
+
+My mother ran back into our house, when she reached at the end of our house street, she was screaming hysterically and calling, “Abes…, Atik...ie laot ka di ek, ta ek laju u wateueh rumoh bertingkat, (rising seawater, quickly and directly up to the terraced house) &quot;. After my mother instructed, all of us were rise to the second floor of the house, I went straight into my house to took a sarong. Then I went back out and climbed up the second floor of Mrs. HErlina Mariana`s house . I did not realized that my mother and some neighbors have fled into HErlina Mariana`s house, but at that time I was stunned to saw the so high wave was ready to hit and swept away everything in front of it. Until I heard Agin said, &quot;Ka Butet quickly rise to the top&quot;. Agin and  I followed the others to straight up to the second floor of the house. While Ms. Atik and her son went up on the second floor of her own house, followed by another neighbor.
+
+Once on the second floor of HErlina Mariana house, I was thinking to went back, but I cancelled my intention after saw the black water with such tremendous speed has been filling downstairs and the by the twinkling of an eyes, has flooded the second floor, which was roughly height a chest or chin adults. On the second floor there were a few families, consisting of Mrs. HErlina Mariana family, Ms. Fauziah family, Kak Mar and some peoples I did not remember of their names. We heard a very loud rumble came from the wave that hit and washed away anything is in front of it. We unceasing remembrance, the name of Allah and keep asking Him for help. Maybe at that time all of us were thought, we will die, every family apologized for their mistake, respectively. I also apologize for my mistakes I&apos;ve ever done.
+
+Not much longer, boom sounds was so loud  that hit the house. Then came the shouts from Bang Zoel which located on the roof of the house and said to Bang dani, “Dani, Dani na kapai ka sangkot di ateuh rumoh, bagah ka peu ek awak nyoe u wateuh kapai (Dani, Dani, there is a ship stuck on top of the house , quickly pull up all of peoples to the boat) &quot;. I did not know how many of wave that brought the ship to the house of Mrs.HErlina Mariana. I was thinking this ship was sent by ALLAH SWT to save all of us. Bang Dani was rushing to open the exit door, which was closed to inhibit rotation of the water that flooded in the second floor. Once the doors open, somehow our way one by one pulled up into the ship.
+
+Not longer after it, came Mrs. Radenmah family followed by Mr. Khalik family. Inside the ship we were continue to zikir, tasbih and tahmid to says the name of ALLAH SWT incessantly. We can saw the wave coming and successive earthquakes was still continue to occur. Each wave came Bang Mujiburizal and a police man were sounding the azan.
+
+From the ship, I saw my house was destroyed and seeing the murky water has inundated the entire Lampulo. Only a few two-story roofs that I can see. At that time I, my mother and several other family continued zikir. Unwittingly we have been on the ship until about 16:00 pm. And ALHAMDULILLAH, I and all of my family were survived. After saw the water has receded, all of us got down from the ship to looked for the safer place. After got down off the ship, we had to walked heading to the city, we have to faced the puddle approximately an adult thigh height, along the road to into the town, I saw the houses and shops had been shattered and covered the road, and so many dead bodies scattered about.  After walking about 1 hour, until me and my mother arrived in Simpang Lima and we were headed to KESDAM Hospital. After we rested little bit while eating snacks that we found when we were walking towards Simpang Lima drifting brought by the water. And not long after it,  me and my mother were decided to took an army car to go to the safer place, Mata Ie. Alhamdulillah in Mata Ie we had families and for a while we lived with them.
+
+Praise Alhamdulillah, ALLAH SWT still gives us a chance to live and improve ourselves become a better person, always doing good to others and continue to be grateful and always remember Allah, doing all of His commandments and away from all of His prohibitions.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_7.ErlinaMarliana</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32592902162462,5.575371255340129,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Adana Rizki</name>
+		<open>1</open>
+		<StyleMap id="msn_8.AdanaRizki">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_8.AdanaRizki</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_8.AdanaRizki</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_8.AdanaRizki">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh6.googleusercontent.com/-hydKhhCUu5k/VPUVCWuA17I/AAAAAAAFRe4/ZH8UckKkzrA/s100-no/8.AdanaRizki.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Adana Rizki Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh6.googleusercontent.com/-hydKhhCUu5k/VPUVCWuA17I/AAAAAAAFRe4/ZH8UckKkzrA/s100-no/8.AdanaRizki.png"/></p>
+				<p class="evidence_name">Adana Rizki<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Style id="sn_8.AdanaRizki">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh6.googleusercontent.com/-hydKhhCUu5k/VPUVCWuA17I/AAAAAAAFRe4/ZH8UckKkzrA/s100-no/8.AdanaRizki.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Adana Rizki</name>
+			<description><![CDATA[<p class="evidence_indonesian">Seperti biasanya di hari minggu tanpa kegiatan apapun pagi itu saya masih tertidur. Namun tiba-tiba saya terkejut dan terbangun dari tidur karena merasakan guncangan yang sangat keras dan dahsyat. Dengan spontan saya lari keluar rumah dengan tergesa-gesa dan duduk dijalan sambil ber zikir. Yang ternyata para tetangga-tetangga juga sudah keluar berhamburan diluar rumah mereka. Keriuhan kekhawatiran tampak jelas diwajah kami semua, hanya zikir kepada Allah SWT dan ayat-ayat suci Al Qur`an yang terus terdengar pada saat gempa terjadi. Setelah gempa mereda saya baru menyadari ternyata pada saat gempa terjadi keluarga saya tidak berada dirumah dan kakak saya masih tidur dikamar. Namun tidak lama setelah gempa usai Alhamdulillah keluarga sudah berkumpul semua dirumah.
+
+Saya tidak tahu kejadian ini terjadi tepat pukul berapa namun pada saat itu yang saya alami saya mendengar tetangga saya berlarian dari arah proyek (pelabuhan ikan) sambil berteriak “ie laot ka ie`ek, ie laot ka ie`ek”. Dan pada saat itu abang dan kakak kakak saya langsung naik ke lantai dua rumah kami. Ayah, mamak, pakcik dan saya sendiri naik ke lantai 2 tanpa memikirkan hal-hal lain, yang terlintas hanya berusaha menyelamatkan diri. Pada saat itu tetangga saya Pak Khalik dan keluarga nya juga ikut naik. Dilantai dua kami semua tetap berzikir tiada henti dan berharap pertolongan dari Allah SWT. Kejadian pada saat itu sangat tidak bisa dibayangkan. Pada saat itu terdengar suara-suara gemuruh yang saya tidak tahu itu suara apa dan ternyata hanya dalam hitungan detik suara-suara itu berasal dari gelombang air yang sangat tinggi dan hitam yang datang tiba-tiba dan menghantam semua rumah yang ada di sekitar. Gelombang air itu menggulung rumah, barang, orang-orang dengan dahsyatnya. Dan bahkan saya melihat dengan mata kepala sendiri kapal-kapal juga ikut terbawa gelombang air tersebut. namun Alhamdulillah rumah kami masih tetap utuh sehingga kami semua masih berdiri di lantai 2 walaupun dalam keadaan terendam air. Pada saat itu yang terlintas dalam hati hanya doa “Ya Allah ada apa ini? Mohon selamatkan kami semua Ya Allah. Jika ini akhir bagi saya, semoga saya meninggal semoga saya meninggal dalam keadaan baik Ya Allah.” Dalam keadaaan terendam air kami semua terus berzikir dan mengucapkan kalimat-kalimat ALLAH SWT dan berharap kejadian ini segera berakhir. 
+
+Namun pada saat itu saya bersama Kak Eva lompat keatap rumah untuk berusaha mencari tempat yang aman. Saya berdiri di atap rumah dan disitu lah saya melihat ada kapal yang besar sudah berdiri di ats rumah Ibu HAdana Rizki (Tante Abes). Langsung saja saya memanggil Kak Eva dan mengajak nya untuk naik ke atas kapal itu. Ternyata di dalam kapal tersebut sudah rami tetangga-tetangga belakang rumah kami, yaitu keluarga Ibu HAdana Rizki, keluarga Wak Kolak, keluarga Wak Ita dan yang lainnya. Setelah didalam kapal saya memanggil mamak dan ayah beserta yang lainnya yang masih terkurung didalam air dilantai dua rumah kami untuk ikut naik ke atas kapal. Tak lama kemudian Ayah, Mamak dan yang lainnya ikut naik juga ke dalam kapal dengan bantuan dari tetangga lain yang lebih dulu sudah berada di dalam kapal. Alhamdulillah, ada sedikit perasaan lega dihati saya karena semua anggota keluarga saya lengkap yaa walaupun kami juga belum mengetahui gimana nasib kami. Namun perasaan lega itu muncul dengan sendirinya karena tidak semua anggota keluarga yang ada di dalam kapal tersebut anggota keluarganya lengkap. Di kapal semua orang berzikir, berdoa, dan azan terus menerus, dikumandangkan dengan hanya mengharapkan pertolongan Allah SWT. Kami lumayan lama berada di kapal karena kondisi nya belum memungkinkan untuk turun ke bawah. Pada saat itu lapar dan dahaga juga kami rasakan tapi cuma satu harapan yang terus terfikir, musibah ini berhenti dan kami bisa mencari bantuan di daerah kota sana. Kembali lagi saya tidak tahu pada saat itu jam berapa, namun seperti nya siang hari karena matahari sudah terasa semakin terik dan pada saat itulah kami semua turun untuk mencoba keluar dari daerah Lampulo ini dan berharap tempat diluar sana lebih baik. Semuanya turun dengan saling bantu membantu. Disitu kami juga berpisah dengan tetangga-tetangga yang lain yang juga memilih untuk mencari jalan keluar sendiri.
+
+Selama dalam perjalanan saya sangat terkejut melihat keadaaan yang terjadi, semua bangunan hancur, orang orang terluka dan mayat-mayat banyak di jalanan. Disitu saya baru sadar ternyata gelombang tsunami tersebut terjadi hampir di seluruh daerah Banda Aceh. Setelah berjalan cukup jauh kami memilih untuk berhenti di Rs. Kesdam. Namun baru istirahat sebentar terdengar isu lagi kalau gelombang air laut kembali naik, disitu semua orang termasuk saya dan keluarga kembali panik. Kembali berhamburan ke jalan dan kembali berjalan untuk mencari tempat yang tinggi. Dan akhirnya sore menjelang maghrib kami sudah berada di Simpang Surabaya, kami masih berada di jalan mencoba mencari tumpangan yang ada  karena kami tidak membawa barang apapun selain baju yang ada di badan dan pada saat itu cuaca sedang hujan. Alhamdulillah disitulah kami mendapatkan bantuan dari temannya Ka Eva. Kami mendapatkan bantuan sedikit nasi, dipinjamkan kendaraan motor, dan saya dikasih pakaian ganti. Dengan menggunakan motor pinjaman akhirnya kami mendapatkan tumpangan untuk melanjutkan perjalanan ke daerah Aceh Besar, pada saat itu kami pergi ke daerah Indrapuri mengikuti keluarga Wak Ita. Keesokan harinya kami memilih untuk tinggal dirumah keluarga Samahani. Disitulah semua keluarga kami berkumpul. Dan sedikit demi sedikit trauma pasca tsunami ini berkurang. Saya sangat bersyukur semua anggota keluarga selamat, apalagi melihat kondisi kakak saya Ka Eka yang mempunyai keterbatasan dalam keadaan fisik yang buruk untuk menggerakkan anggota badannya saja membutuhkan bantuan orang sekitar. Satu yang pasti, rasa syukur kepada Yang Maha Kuasa, alhamdulillah YA ALLAH kami semua selamat dan masih dalam keadaan normal. Nasib kami masih sangat -sangat beruntung, masih diberi umur, masih ada tempat untuk berteduh. Alhamdulilahirabbilalamin. Bagi saya yang pasti ini menjadi satu pelajaran. pelajaran buat selalu takut dengan kuasa Allah SWT. Pelajaran buat selalu memperbanyak amal ibadah karena segala sesuatu dapat saja terjadi jika ALLAH SWT menghendaki tanpa kita ketahui itu kapan, dimana dan apa yang bakal terjadi. Dan segala sesuatu yang Allah berikan pasti ada sebab akibat dan hikmah nya dibalik itu semua. </p>
+
+			<p class="evidence_english">As usual on that Sunday morning without any activities, I was still asleep. But suddenly I was startled and awakened from sleep because it felt the shock very hard and powerful. I instinctively ran out of the house in haste and sat down in the street, while remembrance zikir. Which the neighbors were also rushed outside from their homes. Hubbub concern was evident on the faces of all of us, only the remembrance of Allah and sounds the surah from the holy Quran, continued when an earthquake was occurs. After the earthquake subsided, I realized when the earthquake occur, my family were not at home, and my older sister was still sleeping in her room. But not long after the earthquake was over Alhamdulillah my family had gathering at home.
+
+I did not know at what time exactly this happened, but at that moment I experienced I heard my neighbor running from the direction of the project (fishing port) while shouting “ie laot ka ie`ek, ie laot ka ie`ek”. And at that time my sister and brother went up to the second floor of our house. Father, mother, uncle and myself climbed to the second floor without thinking about other things. That came to just trying to save ourselves. At that time my neighbor Mr. Khalik and his family also followed us. In the second floor, all of us were remain relentless zikir and hope for help from Allah SWT. It was not imaginable. At that time there was the roar voices,  I did not know what the noise was and then I realized, it was only a seconds, the voices were coming from a very high waves and black, suddenly came and hit all the houses around. The water waves was rolled up the houses, goods, peoples with powerfully. And even I saw with my own eyes the ships also were carried away by the waves of the water. But Alhamdulillah, our house was still intact so we were all still standing on the second floor, although the condition was flooded in the water. At the moment it was just thought and prayer &quot;Ya Allah, what is this? Please save all of us Ya Allah. If this is the end my life, hopefully I die in a good condition Ya Allah&quot;. In the inundated circumstances, all of us were constantly saying zikir and utter sentences to ALLAH SWT and hope this incident will be end.
+
+But at that time, me and my older sister Eva were jumped onto the roof of our house, tried to find a safer place. I stood on the roof of our house and I saw a large ship was standing in the top of Mrs. HAdana Rizki`s house (Aunt Abes). Immediately, I called and invited my older sister Eva to climbed up into the top of the ship. Apparently in the ship, there were many neighbors in the back of our house, the family of Mrs. HAdana Rizki, family Wak Kolak, Ka Ita family and others. Once inside the ship I called My father and my mother along with the others who were still trapped in the water on the second floor of our house to went up to the top of the ship. Soon my father, my mother and the others went up also to the ship with the help of another neighbors that already in the boat. Alhamdulillah, there was little relief in my heart, because of all of my family members were complete, although we also did not know what will happen to us. But the feeling of relief that presented itself because not all of family in the ship were complete their family members. On the boat, all of us were zikir, praying, and sounded azan continuously with only expect the help from Allah SWT. We pretty long in the ship because the condition has not been allowed to go down. At that time we were also felt hungry and thirsty, but we were keep the one hope, that this tragedy stop and we can looked for help to the town area. Back again, I did not know what time exactly, but was like during the day because the sun was blazing and feels increasingly,  that&apos;s when all of us went down tried to get out of Lampulo area and look forward a better place. All of us comes down by help each other. Then we were split up with the other neighbors, they were also choose to search for a way out by themselves.
+
+During the trip I was very surprised to see what happened, all the buildings were destroyed, people were wounded and many dead bodies in the streets. There, I just realized that the tsunami occurred in almost all of Banda Aceh areas.  After walking quite a long, we decided to stop at Kesdam Hospital. But only a quick break, heard issue that the sea water wave will rise again, everyone including myself and family were panic again. Back scattered into the street and walked back to look for a high place. And finally in the evening before sunset we were arrived in Simpang Surabaya, we were still on the road tried to hitch a ride, because we did not bring anything other than the clothes on the body and at that time was rainy. Alhamdulillah that&apos;s where we get help from a friend of Sister Eva. We get a little help for rice, lent a motor vehicle, and I was given a change of clothes. By using a loan motorbike, we finally get a ride to continue the journey to the area of Aceh Besar. At the time, we were following Ka Ita to went to her family in Indrapuri. The next day we opted to stay in our family house in Samahani. That was where all of our family get together. And little by little post-tsunami trauma was reduced. I was very grateful that all members of my family were survived, If see the condition of my older sister Ka Eka who had limitations in poor physical condition, to move her limbs she need the help of people around. One was for sure, a sense of gratitude to the Almighty, Alhamdulillah we were all survived YA ALLAH, and still in the normal condition. Our fate was still very lucky, still given life, there was still a place for shelter. Alhamdulillah Hirabbilalamin. For me this was definitely becoming one lesson. lesson to always be afraid of the power of Allah. Lesson to always did a good deeds because anything can be happen if Allah SWT wills, we never know it, when, where and what would be happen. And everything that God has given  caused an effect and there was a wisdom behind it all.</p>]]></description>
+			<LookAt>
+				<longitude>95.3261055452943</longitude>
+				<latitude>5.576586425686695</latitude>
+				<altitude>0</altitude>
+				<heading>-8.254129778039381</heading>
+				<tilt>44.74173391497661</tilt>
+				<range>815.8429606275828</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_8.AdanaRizki</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32509955318237,5.574935834108096,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Eva Munira</name>
+		<open>1</open>
+		<Style id="sn_9.EvaMunira">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh5.googleusercontent.com/-kS16v8nI6BI/VPUVCkBUmkI/AAAAAAAFRe8/PggXOJnAb2I/s100-no/9.EvaMunira.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_9.EvaMunira">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_9.EvaMunira</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_9.EvaMunira</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_9.EvaMunira">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh5.googleusercontent.com/-kS16v8nI6BI/VPUVCkBUmkI/AAAAAAAFRe8/PggXOJnAb2I/s100-no/9.EvaMunira.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Eva Munira Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh5.googleusercontent.com/-kS16v8nI6BI/VPUVCkBUmkI/AAAAAAAFRe8/PggXOJnAb2I/s100-no/9.EvaMunira.png"/></p>
+				<p class="evidence_name">Eva Munira<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Eva Munira</name>
+			<description><![CDATA[<p class="evidence_indonesian">“Terlalu manis untuk di lupakan kenangan yang indah bersamamu didalam mimpi”, sepenggal lirik Slank yang kami nyanyikan di malam minggu tanpa ada firasat apapun bahwa esok harinya akan ada peristiwa besar yang akan diingat oleh seluruh dunia, ya….Tsunami. Sebuah kata yang asing di telinga saya bahkan di masyarakat umum.
+
+Sabtu 25 Desember 2004, 6 tahun yang lalu, saat KKN saya dan teman-teman menghabiskan malam minggu di rumah induk semang kami di Lambada. Krueng Raya, Aceh Besar. Tanpa ada firasat apapun kami habiskan malam itu dengan canda dan tawa walaupun cuaca pada malam itu sangat tidak bersahabat. Tetapi kami tetap semangat untuk berkumpul setelah hampir beberapa bulan tidak pernah bertemu.
+
+Keesokkan harinya tepat pada taanggal 26 Desember 2004, saya memutuskan untuk pulang lebih awal dari teman-teman yang lain. Alasan kepulangan saya karena Ibu tercinta mengirim pesan tercinta. Cukup berat awalnya karena masih ada keinginan untuk tetap berkumpul bersama dengan mereka terutama dengan sahabat saya “Ecy”, akan tetapi jeritan Ibuku jauh lebih keras terngiang di telinga. Pesan itu membuat saya menyegerakan langkah kaki untuk pulang setelah berpamitan dengan keluarga angkat dan teman-temanku.
+
+Lebih kurang 100 meter dari rumah tersebut, terjadi gempa yang cukup kuat. Semua orang yang tinggal di pinggir jalan Krieng Cut berlarian keluar rumah dan semua kendaraan yang melintas berhenti termasuk saya yang pada saat itu mengendarai sepeda motor. baru kali ini saya merasakan goncangan yang dahsyat selama saya hidup. pada saat itu pikiran saya tertuju untuk segera sampai di rumah bertemu dengan keluarga kami. Gempa berhenti beberapa menit kemudian saya dan teman saya memutuskan untuk segera jalan lagi. Harapan ingin segera sampai di rumah. Sepanjang jalan kami melihat banyak bangunan yang hancur dan di beberapa bagian jalan banyak aspal yang retak.
+
+Tiba di rumah, semua tetangga sudah berada di depan rumah masing-masing termasuk keluarga saya. Saya berjalan cukup santai dan sempat bercerita posisi saya pada saat gempa terjadi dengan para tetanggaku. Tak lama kemudian terdengar gemuruh ombak yang mengingatkan saya pada saat di pantai, tetapi lamunan saya terpecah setelah Heri ( adik sepupu kami) berlari sambil berteriak, “Air laut naik air laut naik”, disusul dengan tetangga saya yang pada saat kejadian berada di TPI (Tempat Pelelangan Ikan). Teriakan itu membuat tetangga saya belarian menuju rumah masing-masing untuk menyelamatkan keluarganya. Saat itu saya dan abang saya (sambil menggendong kaka) terus naik ke lantai dua rumah kami dan segera disusul dengan ayah, ibu, dan adik saya. Suasana saat itu cukup panik  dan semua sibuk menyelamatkan diri masing masing. Di atas selain saya dan keluarga kami juga ada tetangga lainnya. Disitulah saya melihat air yang begitu kencang mengalir menghanyutkan rumah, mobil, pohon bahkan orang.
+
+Saya pegang erat tangan adik saya dan kami berlari ke arah serambi tetangga saya, dengan harapan kami bisa naik ke atap rumah. Subhanallah…..saya tidak tahu kekuatan darimana sehingga saya bisa melangkah cepat dan melompat ke atap rumah kami. Ketika berada di atas saya melihat air yang sudah menggenangi rumah. Saya berteriak “Mamak, Ayah, abang, Kakak”. Mereka semua berada di teras lantai dua dalam pandangan saya, air semakin tinggi. Bagaimana dengan keluarga dan tetangga kami? Alhamdulillah mereka, keluarga tetangga kami selamat dan kami semua berkumpul di atas. Saya terkejut ketika melihat sebuah kapal ikan besar di atas rumah tetanggaku, Bapak Misbah, tepa di belakang rumah kami. Saya tidak tahu kapan dan bagaimana kapal itu sampai. Yang kami tahu kami harus naik ke kapal. Di atas kapal saya mendengar tangisan dan teriakan dari orang-orang yang kehilangan keluargaanya. Saya lihat ombak sangat tinggi dari tengah laut menghempas kedaratan.
+
+Cemas dan takut yang dirasakan pada saat itu, semua orang mneyebut Asma Allah dan berusaha menenangkan keluarga masing-masing. Kami semua berda di atas kapal sampai siang hari, saya lupa pastinya berapa jam kami semua berada di atas asana. Ketika air sudah mulai surut, kami memutuskan untuk turun dari atas kapal dan berjalan perlahan-lahan enuju Rumah Sakit Kesdam yang berjarak 5km. Rasa syukur selalu saya panjatkan karena kami sekeluarga bisa selamat.
+
+Setiap tahun tepat pada tanggal tersebut, saya bisa mengingat kejadian itu dengan jelas. kehidupan baru sudah terbentang dan sedang dijalani. Tangisan kehilangan berganti dengan senyuman dan hikmah kehidupan. Saya, bahkan kami terpilih menjadi manusia-manusia untuk melanjutkan kehidupan dengan karya kami. menjelang malam itu, saya kembali teringat dan melantunkan penggalan lagu itu. Terlalu manis untuk dilupakan.</p>
+			<p class="evidence_english">&quot;Too sweet to be forgotten beautiful memories with you in the dream&quot;, a piece Slank lyrics that we sing at Saturday night without any premonition that tomorrow there will be happen a great event that will be remembered by the world, yes ... .Tsunami. An unfamiliar word in my ears even in the general population.
+
+Saturday, December 25, 2004, 6 years ago, when my KKN`s friends spend a Saturday night at house of our landlady at Lambada. Krueng Raya, Aceh Besar. Without any inkling we spent the evening with jokes and laughter that night, although the weather was not friendly. But we kept the spirit to came together after almost a few months we never met.
+
+The next day, precisely on December 26, 2004, I decided to go home earlier than other friends. The reason for the return was my beloved dear mother send a message. Hard enough initially because there was still a desire to remain assembled together with them, especially with my best friend &quot;Ecy&quot;, but my mother message  much louder was ringing in my ears. That message made ​​me hasten to step foot home after saying goodbye to the host family and friends.
+
+
+Approximately 100 meters from the house, there was an earthquake strong enough occur. All the people who were in the Krueng Cut street, ran out of the house and all the vehicles that pass stopped including me that at the time was riding a motorcycle. Only in this time I felt a terrible earthquake in my life. at that moment my mind focused to went home soon to meet with my family. The quake stopped a few minutes later, my friend and I decided to continued our journey again. Hope wanted to get home. Along the way we saw a lot of buildings were destroyed and in some parts of the road were a lot of cracked asphalt.
+
+Arriving at the house, all the neighbors were in front of each their house, included my family. I run quite relaxed and told with the neighbors about my position at the time when the earthquake occurred. Shortly thereafter came the roar of the waves which reminds me of the time at the beach, but my reverie broken after Heri (our cousin) ran while shouting, &quot;Sea water rising sea water rise&quot;, followed by my neighbor who the time of the incident was in TPI (Fish Auction). The shouted made me and neighbors ran towards each home to save our family. At that time me and my elder brother (while holding older sister) continued up to the second floor of our house and was quickly followed by the father, mother, and my sister. The condition was quite frantic and all of us were busy saving themselves respectively. Above in addition to our family and there were also other neighbors. That was where I saw water flowing so fast swept away houses, cars, trees and even people.
+
+I hold my younger sister&apos;s hand and we ran to my neighbor&apos;s porch, in the hope we could climbed up to the roof of the house. Subhanallah ... ..I did not know where the strength came from, so that I can moved faster and jumped onto the roof of our house. When it was over I saw the water that had flooded the house. I shouted &quot;Mom, Dad, brother, sister&quot;. They were all located on the second floor terrace in my view, and the water was getting higher. What about my family and our neighbors? Alhamdulillah, our neighbors and my family were survived and we all gathered at the top. I was surprised when I saw a large fishing boat was stranded on my neighbor&apos;s house, Mr. Misbah, exactly behind our house. I did not know when and how the boat came from. That we knew we had to go up into the ship. On the boat I heard the cries and screams of the people who lost their families. I saw very high waves of the sea slammed into the land.
+
+Anxiety and fear that was felt at the time, everyone said the name of God and tried to comfort their families. We all were on the boat until noon, I forget the exactly how many hours we were all up there. When the water has begun to recede, we decided to get off the ship and walked slowly towards to the Kesdam Hospital, within about 5km. Gratitude I always prayed for my family who survived.
+
+Every year on this day, I can remembered it clearly. Now a new life has begun and it is still going on. The cries of lost changing with a smile and wisdom of life. I, even we are selected as human beings to move on with our work. In the night before, I remembered and sang the song fragments. Too sweet to be forgotten.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_9.EvaMunira</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.3260337727894,5.574832272109343,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Zulfikar</name>
+		<open>1</open>
+		<Style id="sh_10.Zulfikar">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-bWKTXWE1Q2A/VPUUz3fFvhI/AAAAAAAFRcw/MCMB-uK_VGU/s100-no/10.Zulfikar.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Zulfikar Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh3.googleusercontent.com/-bWKTXWE1Q2A/VPUUz3fFvhI/AAAAAAAFRcw/MCMB-uK_VGU/s100-no/10.Zulfikar.png"/></p>
+				<p class="evidence_name">Zulfikar<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				Buku, 2012,"Mereka Bersksi", PNPM Mandiri Pariwisata Gampong Lampilo, Kecamatan Kuta Aalam, Banda Aceh, Indonesia.</p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_10.Zulfikar">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_10.Zulfikar</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_10.Zulfikar</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_10.Zulfikar">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh3.googleusercontent.com/-bWKTXWE1Q2A/VPUUz3fFvhI/AAAAAAAFRcw/MCMB-uK_VGU/s100-no/10.Zulfikar.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Zulfikar</name>
+			<description><![CDATA[<p class="evidence_indonesian">Ketika gempa melanda Selat Malaka di sebagian pesisir Aceh hari Minggu 26 Desember 2004, jam 08.15 wib, saya saat itu berada di persimpangan Jl. Tanjong  menuju Tempat Pelelangan Ikan (TPI) Lampulo. Saat gempa saya melihat masyarakat semua keluar rumah, ada yang dijalan dan ada yang di pekarangan rumah. Saya lihat rumah Yah Peh temboknya roboh, Wak Som menangis histeris disitu saya melihat Wak Som terakhir kali sebelum air bah datang. Dan saya melihat situasi adek Pawang beserta ibunya juga menangis histeris dijalan. 
+
+Setelah gempa reda saya melanjutkan perjalanan ke TPI, tapi saya sempat singgah di rumah Pak Ridwan Ibnu Abbas untuk melihat keadaan beliau. Sesampai di tempat beliau saya di suruh melihat kantor Laboratorium Perikanan kebetulan saya bekerja di tempat tersebut. Sebelum pergi kami sempat ngobrol untuk rencana menjemput tamu di Bandara, saya sempat pinjamm sepeda si Mirza anak Pak Ridwan untuk melihat kantor. 
+
+Sesampai dikantor saya lihat semua peralatan banyak yang pecah karena lemari jatuh ke lantai, saya periksa semua ruangan lain dan kejadiannya sama, lalu saya kunci kembali kantor dan saya lihat bangunan TPI yang dibangun oleh kantor pelabuhan roboh. Saya mendekati lokasi, saya lihat Pak Pujo sedang membersihkan tempat itu, ikan-ikan dan honda yang tertimbun oleh reruntuhan bangunan tersebut, saya bantu beliau dan kami sempat mengeluarkan sebuah honda yang tidak begitu parah yang tertimbun reruntuhan bangunan tersebut.
+Sambil istirahat kami mendengar teriakan para pedagang ikan yang ada di TPI, &quot;IE LAOT DI EK, IE LAOT DI EK&quot;,  dan saya melihat ke arah laut, air memang naik setinggi lebih kurang 15 meter lebih seperti awan hitam dan suara pesawat, lalu saya dayung sepeda tadi,  dijalan sudah penuh dengan orang  yang menyelamatkan diri masing-masing.  
+
+Dan saya teringat sepeda yang saya pakai kepunyaan si Mirza harus saya kembalikan sepeda itu. Bapak Rodwan Ibnu Abbas bertanya, &quot;Ada apa kok orang pada lari-lari?&quot;  saya jawab, &quot;PAK, NE PLUENG IE LAOT KA DI EK&quot;. itulah komunikasi kami terakhir bersama Pak Ridwan.
+
+Lalu saya lari ke rumah dan saya lihat Wak Kolak berteriak teriak, &quot;Air laut naik, air laut naik&quot;,  dan pas di persimpangan jalan Tanjong saya lihat Si Jol bersama keluarga lari  ke arah jalan Kamboja, dan saya pun  berlari ke rumah untuk berjumpa Ayah Ibu Kaka dan Abang saya, mereka semua masih dijalan.
+
+Ibu dan kakak saya masuk ke dalam rumah untuk mengambil celecom, dan saya berteriak, &quot;Ibu, cepat keluar, air!&quot;, dan mereka pun keluar langsung naik ke rumah Ka Abes dan sempat saya lihat sebelum saya naik ke tangga Ka Abes air sudah setinggi  lutut, setelah kami semua berada di lantai dua airpun bertambah tinggi, si Arik dan Alpa anak Ka Abes terpaksa digendong di atas pundak. 
+
+Dalam suasana air makin tinggi kami semua saling bermaaf-maafan karena mungkin yang terpikir hari itu hari kiamat. Suasana yang tidak menentu, abang saya mengatakan kepada kakak  Dekta Tawasul sama Abuya Tawasul 3x berulang-ulang. 
+
+Saya pun mencoba bantu Abuya dan Allah  pun menunjukkan mukjizatnya di antar nya sebuah boat yang menurut Bang Jol, orang pertama melihat boat datang dari arah Kampong Biduk dengan kecepatan tinggi, sesampai di rumah Ka Abes boat itu landai seperti ada yang mengemudikan dan mengambil posisi seperti sekarang ini.
+
+Bang Jol berkata, &quot;NE EK LAM BOT, NE EK LAM BOT&quot;,  terpikir oleh kami, harus cepat naik kalau tidak boat jalan lagi.  Abang saya beserta Dani langsung keluar ke teras dan kami pun keluar dan melihat Bang Jol dan Andri di dalam bot tersebut.
+
+Kamipun keluar dan naik satu persatu ke dalam bot bang Jol, Dani yang menarik dari atas dan abang saya yang mendorong dari bawah satu persatu sehingga jumlah kami 20 orang yang ada di lantai dua rumah Ka Abes.
+
+Sesampai kami di atas boat, rupanya yang selamat di rumah manteri Amat sudah terlebih dahulu naik ke atas bot. Setelah kami bersatu yang terlihat cuma air bagaikan lautan di sana sini yang tampak cuma lautan.
+
+Saya sempat melihat Pak Sanusi hanyut dibawa oleh air dan beliau meminta pertolongan. Saat itu yang ada cuma tali dan kami sudah berusaha melempar tali tapi ternyata air lebih kencang dan tak dapat tertolong. 
+
+Kami yang ada di dalam boat berdoa seperti samadiah dan tahlil, semua orang menyebut nama Allah yang perempuan membaca Yasin. Ketika air naik lagi abang saya Azan dan tampak oleh kami air yang tadinya bergelombang, pecah dan tidak sampai naik ke daratan, itu berulang ulang terjadi. 
+
+Rupanya Ka Fauziah juga ada didalam loteng rumah Ka Abes di lantai dua. mereka menggedor gedor seng, setelah kami buka seng nya, ternyata ka Fauziah bersama keluarga dan dua orang lain yang berjualan nasi di TPI.
+
+Setelah selamat semua di dalam boat, semua orang menangis teringat keluarga. Bu Ana memanggil Ayu anaknya yang tidak ada bersamanya. Wak KOlak menyebut nama Dekman. Si Rina memanggil bapak bapak dimana, saat itu dia melihat bapaknya, Pak Ridwan Ibnu Abbas bersama adik nya dalam gendongan Bapaknya hanyut  dibawa arus gelombang tsunami. 
+
+Saya bertanya dengan Neh Cut, &quot;Pak Ridwan kemana? Kak Neh Cut isteri Pak Ridwan Ibnu Abbas menjawab,  &quot;Setelah si Jon memberikan kepada kami kalau air naik, kami langsung naik ke mobil hendak lari. Karena di jalan sudah padat, kami jalan lurus mau belok ke Jalan Tanjong tetapi tidak jadi berbelok. Kami belok ke jalan Keladi dan air pun sudah dekat. Saya lihat Bang Wan  sudah gugup dan kami pun turun dari mobil . Pintu mobil di sebelah Bang Wan tidak terbuka, Rina dan Mirza sudah turun dan lari. Saya juga lari dan saya lihat terakhir Bang Wan dan Dek Gam sudah turun dari mobil dan naik ke atas pagar Pawang Azhar, airpun datang menyapu mereka&quot;, demikian penjelasan Ka Neh Cut isteri Pak Ridwan.
+
+Sekitar pukul 11 anak anak haus dan lapar. Kami mencari - cari di dalam boat, kami menemukan satu jerigen air sungai dan kami mencari cari lagi dan menemukan parang dan baju baju awak boat. 
+
+Saat sedang lapar dan haus Allah kembali menampakkan mukjizatnya, dimana pada waktu itu hanyut lah satu tandan kelapa dan si Dani turun untuk mengambil kelapa yang telah sangkut. 
+
+Setelah dia turun untuk mengambil kelapa tadi yang sangkut. Setelah dia turun, mengikat tandan kelapa tadi dengan tali, lalau kami tarik ke atas dan kami belah untuk diminum sekedar melepaskan dahaga. Hari semakin panas, kami lihat orang yang masih selamat di atas rumah rumah mulai turun untuk menuju ke kota. Kami juga mau turun dan memang agak sulit. Lalu Ibu berkata kepada  Pak Khaled untuk mengambil tangga. Kemudian meletakkannya pada teras lantai dua rumah Ka Abes hingga ke belakang boat, kami pun turun satu persatu melalui tangga tersebut.
+
+
+Ini lah cerita pengalaman yang saya alami dan rasakan saat musibah gempa bumi dan gelombang tsunami yang terjadi pada tanggal 26 Desember 2004.</p>
+			<p class="evidence_english">When the earthquake struck in the Malaka Strait on most of Aceh coastal area, on the  day Sunday, December 26, 2004, at 8:15 am, while I was at the intersection of Jl. Tanjong headed Fish Auction (TPI) Lampulo. When the earthquake I saw all of the people went out of their house, there were some people on the street and yard. Well I saw the wall of Yah Peh houses was collapsed. Wak Som was crying hysterically, It was the last time I saw Wak Som before the flood came. And I looked at the situation of Brother Pawang and her mother were cried hysterically on the street. 
+
+After the earthquake subsided I went on a trip to the TPI, but I had stopped at the house of Mr Ridwan Ibnu Abbas to see the condition of him. Arrived at his house, he asked me to looked at the Fisheries Laboratory, I used to work there. Before leaving we had a chat about planning to picked up the guests in the airport, I borrowed a bike from the  Mirza, Pak Ridwan`son. 
+
+Arrived at the office, I saw all of the equipments were broken, because a lot of closet fell down to the floor, I checked all of the other rooms and the same situation, then I  locked the office and saw the TPI building that constructed by the port office was collapsed. I approached the scene, I saw Mr. Pujo was cleaning the area, fish and motorbikes were buried by the rubble, I help him and we had issued one motorbike that was not so severe from the building rubble. 
+
+While a short break, we heard shouts of the traders fish in TPI, IE LAOT DI EK, IE LAOT DI EK&quot;, and I was looking towards to the sea, the water was rising as high as approximately 15 meters was more like a black cloud and aircraft noise, then I was rowing bike, the streets were already filled with people fleeing respectively. 
+
+And I remembered that I was wearing bike belongs to the Mirza, and I have to returned it.  Mr. Rodwan Ibnu Abbas asked, &quot;What is really happen? many people running?&quot; I replied, &quot;PAK, NE PLUENG IE LAOT KA DI EK&quot;. That was our last communication with Mr. Ridwan. 
+
+Then I ran into my house and I saw Wak Kolak shouted, &quot;Sea water rising, Sea water rising&quot;, and from the junction of Tanjong Street, I saw Jol with his family fled  in the direction of Cambodia Street, and I also ran into my house to meet my father, my mother, my brother and my sister, they were all still on the street. 
+
+My mother and my sister went into the house to take Celecom, and I yelled, &quot;Mom, get out, water!&quot;, And they came out the house and headed to the house of Sister Abes. I saw before I went up the stairs, the water was as high as adults knees, as we all were on the second floor, the water grew taller. Arik and Alpa, Ka Abes`s sons were carried on the shoulders. 
+
+In a condition of increasingly high water, we were all mutually greetings for forgive each others.  because it probably the day of Judgement was occurred. The condition was erratic, my brother told the sister Dekta to doing Tawasul, also same with Abuya doing Tawasul repeated 3x. 
+
+I was trying to help Abuya and Allah shows His miracle, He sent us the boat. According to Bang Jol, the first man who saw, the boat came from the direction of Biduk Village at high speed, when it reached the house of Ka Abes, the boat was going slowly, it was like there were someone who drive it and took a position as it is now this. 
+
+Bang Jol said, &quot;NE EK LAM BOT, NE EK LAM BOT&quot;, we were thinking, we should quickly climbed up the boat if not the boat will be go. My big brother along with Dani directly out onto the balcony and saw Bang Jol and Andri on the boat. 
+
+We also come out and climbed up one by one into the boat, Dani pulled them up from the top of the boat, and my older brother Bang Jol, pushed from the bottom one by one so that there were amount of our 20 people on the second floor of Ka Abes`s house. 
+
+Once we were on the boat, which apparently survived were the people from Manteri Amat`s house, has been climbed to the top of the boat first. On the top of the boat, we saw the water was like an ocean, only water every where. 
+
+I could see Mr. Sanusi swept away by the water and he asked for help. At that time there was only the rope and we&apos;ve tried to throw a rope, but the water was tight and we can not helped him. 
+
+We were in the boat and prayed like samadiah, tahlil, everyone said the name of Allah, and the women read Yasin. When the water was rise again, my older brother  sounding Azan, and looked after the azan, the bumpy water was broken and was not to the land, it happens over and over again. 
+
+Apparently, there were Ka Fauziah also on roof of the second floor of Ka Abes`s house. they bang on the zinc, after the zinc  was opened, we saw ka Fauziah family and the two other people were selling rice at TPI. 
+
+After all of us were survived in the boat, everybody were crying remembered all of their family. Mrs. Ana called Ayu,  her daughter was not with her anymore. Wak Kolak called Dekman&apos;s name. Rina called her father, she saw her father, Mr. Ridwan Ibnu Abbas with her younger brother in her father&apos;s arms drift away by the tsunami waves. 
+
+I asked to Neh Cut, &quot;Where is Mr. Ridwan? Kak Neh Cut was wife of Mr. Ridwan Ibnu Abbas replied,&quot; After Jon told us when the water rose, we went up to the car want to run. Because in the roads is already congested, we want to turn around to the Tanjong Street, but it does not turned. We turn around to the Keladi Street and the water is getting closer. I see Bang Wan already nervous and we are get out off the car. The car`s door in the next to Bang Wan is does not open, Rina and Mirza already get out and run. I also run and I see the last time Bang Wan and Dek Gam already out of the car and climb to the top of the fence of Azhar`s house, the water came and sweep them &quot;, explained Ka Neh Cut, the wife of Mr. Ridwan.
+
+Around 11 o`clock, children were thirsty and hungry. We were looking for at the boat, we found a jerry can of river water and we were looking and looking again and found a machete and a cloth of the boat crew. 
+
+While we were hungry and thirsty, again Allah appeared miraculous, which at that time was a drifts a coconut bunches and Dani went down to pick up coconuts that snagged. 
+
+After he went down to pick up the coconut bunch, tied it up by the rope, people from the boat were pull it up.  Then we were splitting the coconut for a drink just to release of our thirst. The day was increasingly hot , we saw people who were still alive at the top of the boat started to go down heading to the city. We also went down and it was rather difficult. Then my mother said Mr. Khaled to took the stairs. Then he put it on the second floor terrace of Ka Abes`s house to the rear of the boat, we were down one by one through the ladder.
+
+It was the story of my experience that I felt when the earthquake and tsunami has occurred on December 26, 2004.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_10.Zulfikar</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32485805653705,5.574239508171934,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Gaya Triana</name>
+		<open>1</open>
+		<Style id="sn_24.GayaTriana">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://lh5.googleusercontent.com/-f1F40rcBhII/VPUU0dzdqYI/AAAAAAAFRbc/exUAVvpFgYY/s100-no/24.GayaTriana.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_24.GayaTriana">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_24.GayaTriana</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_24.GayaTriana</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_24.GayaTriana">
+			<IconStyle>
+				<color>ffdcf1ff</color>
+				<scale>1.7</scale>
+				<Icon>
+					<href>https://lh5.googleusercontent.com/-f1F40rcBhII/VPUU0dzdqYI/AAAAAAAFRbc/exUAVvpFgYY/s100-no/24.GayaTriana.png</href>
+				</Icon>
+				<hotSpot x="0.5" y="-0.15" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.9</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<div class="evidence_all">
+				<div class="evidence_title"><p>Gaya Triana Testimony</p></div>
+				<p><img class="evidence_picture" src="https://lh5.googleusercontent.com/-f1F40rcBhII/VPUU0dzdqYI/AAAAAAAFRbc/exUAVvpFgYY/s100-no/24.GayaTriana.png"/></p>
+				<p class="evidence_name">Gaya Triana<br>$[name]<br>19</p>
+				<div class="evidence_body">$[description]</div>
+				<p class="evidence_source">
+				"Remembering Disaster",Banda Aceh, Indonesia.<br>
+			     <a href="http://rememberingdisasters.com/2014/06/30/disaster-witness-network-in-aceh-tellnet-jaringan-saksi-bencana-di-aceh-lihat-cerita-ini/" target="_blank">  全文PDF  </a></p>
+				</div>]]></text>
+				<textColor>ff171717</textColor>
+				<bgColor>ffd2f3ff</bgColor>
+			</BalloonStyle>
+			<LineStyle>
+				<color>b2ffcfd3</color>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Gaya Triana</name>
+			<description><![CDATA[<p class="evidence_english">That day, when the earthquake happened, I was with my husband, son, brother and cousin were in a rented house, in Peulanggahan Village, which is approximately one kilometer from coastal line. We stumble and knelt in the yard while say Zikir.
+
+After the earthquake I hurried to find my boys the 8 year old who has been out of the house before 8:00 am. When I arrived at the end of the hallway, precisely at a crossroads Tgk. Di Kandang, Keudah. From the rear, the people yelling, &quot;Sea water rising ...&quot;. I looked back, toward the sea, a huge wave looks great height of about ten meters coming from the direction of the coast Ulee Lheue heading ashore. My heart is troubled, chaotic thoughts, remembering the child. In the turmoil, my mouth said, &quot;&apos;Ya, Allah, is a judgement day today? I have not enough repentance, &quot;Ya Allah&quot;. Within seconds the wave approaching, and along with saying&quot; Allah akbar &quot;, this catastrophic wave slammed me to fall to the asphalt, so was rolled over, but I remained conscious and was reminded of the sins and children. Suddenly I slammed on the roof of house, and the house had collapsed, and I slammed again on the roof of chicken nest in the back yard. Later, brought water with the chicken nest. in the water, I rolled and oppressed by the timber, boards, and zinc from collapsed houses. Currently it does not appear anything, but I am still holding my breath unconscious and occasionally swallowed water.
+
+The water was two colors, the black below, the blue above. A few minutes later I was already in a pile of wood, boards, zinc, and other garbage in front of the Hotel Medan, Peunayong, Banda Aceh, approximately one mile south of my house. At that time I can only limited to the neck raises head above the water surface, while the body and legs I was pinned by the board and cracks in the wood. Meanwhile, a wave of aftershocks continued to smash and urged me towards Simpang Lima. At that time, it seemed to me a fishing boat floating not far away with me, right in front of Hotel Medan. Boat was also pressured by water propped up the hotel building. After seeing it, I tried to break away from the crush of the timber by tearing the shirt and skirt, then up to the top of the pile of wood and holding nets dangling from the boat. By pulling the nets I climbed to the top of the boat. On top of the boat there are two men. I and the two young men did not talk much, just ask each other where each stay. We stood slightly apart and see the ever after. Every now and then I also looked around. In my heart continued remembrance and imagine the sins that have not had time to repent, also remembered the children I did not know where he stands. Approximately one hour was on the boat with a blank mind, do not know what exactly happened.
+
+
+When the water has receded, approximately two feet, I was invited down by the two men to rise to the two-floor store not far from our boat position we are. I told them that I could not go down. &quot;Just jumping Mam ...!&quot;, They said. I follow their instructions, and I jump from the boat. Once in the water, my knee punctured by iron, and blood came out, but I was still able to walk past a pile of wood, zinc, and other debris. We also climbed to the second floor are still survive in front of the Hotel Medan. From the top of the store I saw corpses lying, generally the bodies were bloody and there were sandwiched with debris. Pakaian Mereka generally torn and some even naked. My thoughts wander aimlessly, sometimes thought of the child, remembering sin, and remember what happened next, while the aftershocks are still continuing despite the low scale.
+
+Approximately 15:00 pm, police came across in front of the Hotel Medan and exclaimed, &quot;It may be down, looking for children, looking for a wife, find a husband.&quot;. We were down, when the water stay limited to the calf. I immediately reverses bodies lying face down, looking for a husband and children, but none that I know. Finally I resigned, I was getting tired, bloody feet getting sore. I follow people towards Simpang Lima. There I sat to unwind beside of monument, dreamy mind, the heart remains to kept Zikir. In the afternoon I joined a group of people, up truck heading Blang Bintang, evacuate for some time. Next, I returned to Sawang, Aceh Selatan for treatment.</p>]]></description>
+			<Camera>
+				<longitude>95.32984026388861</longitude>
+				<latitude>5.568374866045228</latitude>
+				<altitude>871.7020367854727</altitude>
+				<heading>-6.818037447790413</heading>
+				<tilt>41.6477898045716</tilt>
+				<roll>-2.268523776427766</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_24.GayaTriana</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32522138208334,5.574264335698268,350</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>
