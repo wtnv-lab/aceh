@@ -17,7 +17,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -28,7 +28,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/-4csegAc7Pcc/VXUtpeMUzdI/AAAAAAAACsI/w7FsKJuK2vU/s128/Science_icon.png</href>
+				<href>images/Science_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -39,7 +39,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -63,7 +63,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -127,7 +127,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</href>
+				<href>images/History_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -184,7 +184,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -205,7 +205,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -242,7 +242,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</href>
+				<href>images/History_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -286,7 +286,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -310,7 +310,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -321,7 +321,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -332,7 +332,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/-4csegAc7Pcc/VXUtpeMUzdI/AAAAAAAACsI/w7FsKJuK2vU/s128/Science_icon.png</href>
+				<href>images/Science_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -343,7 +343,7 @@
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -351,7 +351,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>https://lh3.googleusercontent.com/T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</href>
+				<href>images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -369,7 +369,7 @@
 		<name>Hsitory</name>
 		<Placemark>
 			<name>Banda Aceh-Museum Ai Hasjmy</name>
-			<description><![CDATA[<img src="https://lh5.googleusercontent.com/-TkLt3C4T_ZQ/VHv9x1zipCI/AAAAAAAAAPQ/14Do-DG1Ad0/w225-h295-no/manuscript%2BAceh.jpg"/>
+			<description><![CDATA[<img src="images/manuscript Aceh.jpg"/>
 <br>
 In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it will cause hard wind, sea waves are loud in it". The sentence is written in the last paragraph, that is yellow underlined.]]></description>
 			<LookAt>
@@ -394,7 +394,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		<name>Interview</name>
 		<Placemark>
 			<name>Banda Aceh-Lampulo</name>
-			<description><![CDATA[<img src="https://lh6.googleusercontent.com/WKM0boJhMU3jZLQqCMwbdufd017aq3TOva1xhkwQ684=w181-h224-p-no"/>
+			<description><![CDATA[<img src="images/Ayi_Banda Aceh.jpg"/>
 <br>
 "My great-grandfather, my grandfather and my father were fisherman, brought up from childhood in the coastal environment, but never heard stories from my parents or grandparents related tsunami before 2004. So the tsunami event in 2004 was a new experience for us, especially when it happened, a lot of people died nearly 80%, most of them were old people. So it is impossible to trace back information related earthquake and tsunami from them"
 
@@ -418,7 +418,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		</Placemark>
 		<Placemark>
 			<name>Aceh Jaya</name>
-			<description><![CDATA[<img src="https://lh4.googleusercontent.com/3u1uz3x1PiPc_YA3BgfWD6CgP9Z7AH8xq5OzDK_Gc0M=w222-h207-p-no"/>
+			<description><![CDATA[<img src="images/Ayi_Banda Aceh.jpg"/>
 <br>
 "When I was a girl, Ie Beuna has happened (reconstructed by the author, based on year of her birth, occurs around 1907). In the morning when the Krueng Sabe river water spilling which is close to the Dragon Cave (Geni Village, around 7-8 KM from the coast). I also experienced an earthquake 7 days and 7 nights during the DI / TII war (reconstructed by the same authors based on the history of other parts, occurred around the year 1964), the earthquakes start in the morning, consequently Gunung Sawah collapse "
 
@@ -442,7 +442,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		</Placemark>
 		<Placemark>
 			<name>Aceh Barat</name>
-			<description><![CDATA[<img src="https://lh3.googleusercontent.com/rv-KYt5IJBHKYDsmQjnqIpUQWr_5nnxmQTGu-OHJBUs=w185-h190-p-no"/>
+			<description><![CDATA[<img src="images/Cut_Aceh Barat.png"/>
 <br>
 "According to story from my grandmother, my grandfather was born at the time of the incident Ie Beuna. In that morning, the water in the sea looked very high, the religion leaders approached to the coast and sounded Azan, the sea water broke on the beach and a small proportion of water to land. That’s why my grandfather name was Teuku Leupek Ie Beuna. During earthquake in the morning of December 2004, my grandmother said, "the sea water will rise soon!". We were thinking that grandmother was very old and just senile. When sea water came, we tried to reach her whom could not get out of bed. I lost my grandmother and my husband, but my son was saved”
 
@@ -466,7 +466,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		</Placemark>
 		<Placemark>
 			<name>Singkil</name>
-			<description><![CDATA[<img src="https://lh4.googleusercontent.com/D-RPhaLVuVpABocNOpsnxuJ6dpawYV3ftwbMQimmTMA=w197-h207-p-no"/>
+			<description><![CDATA[<img src="images/Sjafrijal_Singkil.png"/>
 <br>
 "There have been the first geloro around 18 century that drowned Old Singkil Town, then around 19 century occurred in the second geloro that made people moved from Kayu Menang to Singkil now",
 
@@ -490,7 +490,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		</Placemark>
 		<Placemark>
 			<name>Simeulue</name>
-			<description><![CDATA[<img src="https://lh5.googleusercontent.com/KYk1a4U15I6gPmIEbNxSvAjd-WHJsT7RKR8FEBo5U9s=w248-h204-p-no"/>
+			<description><![CDATA[<img src="images/Screen Shot 2014-12-01 at 5.06.07 PM.png"/>
 <br>
 "In 1907, earthquake happened before Friday prayer, I was a small child, do not know anything, the ground cracked open because of it, my father took me to flee to the mountains. After prayer, many people visited low tide sea, then smong happened, the water entered to the land and many people died. At that time we were eating sago and using bark cloth (bairak). When the earthquake in the early morning in December 2004 and the river water (estuarine) receded quickly, I know that the sea water will rise, the voice like a pandan leaves burning. So, I shouted "smong!" and everyone ran to the mountains, when my grandson was born in the mountains, so I called him "Son of Smong".
 
@@ -521,7 +521,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>Tsunami 2004</name>
 				<description>Katrin Monecke et al. Research</description>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-AhYKR346dJU/U7n_tYcj2aI/AAAAAAAAAEY/ENkVz4EBpOY/w262-h487-no/figure1.jpeg</href>
+					<href>images/figure1.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -537,7 +537,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-wFMcEBAm1Sc/U7n_tf2_oyI/AAAAAAAAAEQ/EEvL4-E7ZNI/w405-h614-no/figure2.jpeg</href>
+					<href>images/figure2.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -552,7 +552,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>d4ffffff</color>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-7DLTFVkXDnc/U7oH2uKL86I/AAAAAAAAAFI/dUYMRaw6LmM/w410-h379-no/figure3_2002.jpg</href>
+					<href>images/figure3_2002.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -580,7 +580,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-DcSXUjoMDfk/U7oH2lSCSFI/AAAAAAAAAFM/bCqsL4NeP8w/w401-h381-no/figure3_2005.jpg</href>
+					<href>images/figure3_2005.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -608,7 +608,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>https://lh3.googleusercontent.com/-xHZsOK9fDXg/U7oH3fjebhI/AAAAAAAAAFY/Ae8uM6o8T9Y/w412-h391-no/figure3_2011.jpg</href>
+					<href>images/figure3_2011.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -636,7 +636,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-UItREHnwLIk/U7oH2tZMknI/AAAAAAAAAFU/ljXXyMw0oZc/w400-h372-no/figure3-2013.jpeg</href>
+					<href>images/figure3-2013.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -667,7 +667,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-ngH2SGzksis/U7tNA_5IF2I/AAAAAAAAAGg/0j0MiXu7e9I/w436-h490-no/Banda-Aceh-Epicenter-earthquake.png</href>
+					<href>images/Banda-Aceh-Epicenter-earthquake (1).png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -683,7 +683,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-JfdQxESUa6A/U7tNGw3pQWI/AAAAAAAAAIk/Dbo54rfOAJY/w258-h448-no/clockwise-subduction-A.png</href>
+					<href>images/clockwise-subduction-A.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -699,7 +699,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-HqXKmo3Hss4/U7tNHIRqT7I/AAAAAAAAAIo/HLjBl8loRnA/w258-h448-no/clockwise-subduction-B.png</href>
+					<href>images/clockwise-subduction-B.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -715,7 +715,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-WTzin3PUvnQ/U7tNHUc4JFI/AAAAAAAAAJc/LMZapCiiRbg/w258-h432-no/clockwise-subduction-C.png</href>
+					<href>images/clockwise-subduction-C.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -731,7 +731,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-EaQnXknAci8/U7tND-pEAII/AAAAAAAAAHk/CnicQi9GN4Q/w514-h490-no/SelawahA.png</href>
+					<href>images/SelawahA.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -764,7 +764,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-Ca_e7kFHi0I/U7tNFoaV3vI/AAAAAAAAAK4/P_6Mhp4An24/w449-h320-no/Shoreline-changing-Lambadeuk-A.png</href>
+					<href>images/Shoreline-changing-Lambadeuk-A.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -784,7 +784,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh3.googleusercontent.com/-TRnZuulQF0E/U7tNHtWxM1I/AAAAAAAAAJE/kFfWhNO9_s4/s451/clockwise-subduction-D.png</href>
+					<href>images/clockwise-subduction-D.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -804,7 +804,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-CAblF56OCtg/U7tNGLq9f1I/AAAAAAAAAIQ/uDs7hiv4P2w/s445/Shoreline-changing-Lambadeuk-C.png</href>
+					<href>images/Shoreline-changing-Lambadeuk-C.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -824,7 +824,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh3.googleusercontent.com/-0diPhjqe2GE/U7tNK-MwMBI/AAAAAAAAAJ8/Z8pL8ZFWw6U/s453/shoreline-lambadeuk-G.png</href>
+					<href>images/shoreline-lambadeuk-G.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -844,7 +844,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-e_vF3HSy7ng/U7tNLKPY5DI/AAAAAAAAAKA/jkYXDaIbezg/s442/shoreline-lambadeuk-H.png</href>
+					<href>images/shoreline-lambadeuk-H.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -864,7 +864,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-Ovz4C7zNoQ4/U7tNLo4_dYI/AAAAAAAAAKQ/0qHkwb1VRnI/s458/shoreline-lambadeuk-I.png</href>
+					<href>images/shoreline-lambadeuk-I.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -894,7 +894,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/--ib5NTNXU8M/U7tNFLR2gyI/AAAAAAAAAIA/snNtWHVeXv0/s439/Shoreline-changing-Kuala-Gienging-D.png</href>
+					<href>images/Shoreline-changing-Kuala-Gienging-D.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -914,7 +914,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-EoM_WkkpLMs/U7tNE2vZwoI/AAAAAAAAAK4/EN1XSR4v5T4/s447/Shoreline-Kuala-Gienging-E.png</href>
+					<href>images/Shoreline-Kuala-Gienging-E.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -934,7 +934,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-2_8wRRd8ry0/U7tNFlFoQfI/AAAAAAAAAI4/QT45wBPsYiQ/s453/Shoreline-Kuala-Giengieng-F.png</href>
+					<href>images/Shoreline-Kuala-Giengieng-F.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -954,7 +954,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh6.googleusercontent.com/-r27K2pU2W9g/U7tNGa4de7I/AAAAAAAAAIw/DA4y6b0kh-s/s450/Shoreline-kuala-giengieng-J.png</href>
+					<href>images/Shoreline-kuala-giengieng-J.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -974,7 +974,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh5.googleusercontent.com/-qKnP1C7twbs/U7tNKejcXkI/AAAAAAAAAJ0/ZXaKBOT7GH8/s446/shoreline-kuala-gienging-K.png</href>
+					<href>images/shoreline-kuala-gienging-K.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -994,7 +994,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh3.googleusercontent.com/-a5N3W3I1v5Q/U7tNKdCqVuI/AAAAAAAAAJs/MIx6nFp1kpY/s446/shoreline-kuala-giengieng-L.png</href>
+					<href>shoreline-kuala-giengieng-L.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1019,7 +1019,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>Before Tsunami</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh3.googleusercontent.com/-J4IeLYyfm6Q/U7tNIip9bJI/AAAAAAAAAJM/kbVYLxn65rY/s512/lampuuk-before-tsunami.png</href>
+					<href>images/lampuuk-before-tsunami.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1034,7 +1034,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>After Tsunami</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-WVnHzmCYGxU/U7tNDanH7gI/AAAAAAAAAHw/IzLUOEBBDMc/s512/Lampuuk-after-tsunami.png</href>
+					<href>images/Lampuuk-after-tsunami.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1049,7 +1049,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>Lampuuk Shoreline</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>https://lh4.googleusercontent.com/-Z0YJV2N37PU/U7tNKCEQeGI/AAAAAAAAAKk/ZmZz4fxwPRc/w329-h490-no/shoreline-changing-Lampuuk.png</href>
+					<href>images/shoreline-changing-Lampuuk.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
