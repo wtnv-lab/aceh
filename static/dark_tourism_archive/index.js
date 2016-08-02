@@ -16,6 +16,8 @@
     west: 1.663620072556097, south: 0.09724992975330173, east: 1.6638510833430595, north: 0.09736503078814279
   };
 
+/*  
+  
   viewer.camera.flyTo({
     destination: {
       west: 1.6636613348907727,
@@ -24,10 +26,32 @@
       north: 0.09715488437496429
     },
     orientation: {
-      pitch : Cesium.Math.toRadians(-35.0)
+      pitch : Cesium.Math.toRadians(-20.0)
     },
     duration: 5
   });
+
+*/
+
+  var shipLongitude = 95.325058;
+  var shipLatitude = 5.577050;
+  var shipLatitudeDelta = 0.01;
+  var heading = 0;
+  var pitch = -30;
+  var range = 1500;
+	
+  var cameraCenter = Cesium.Cartesian3.fromDegrees(shipLongitude, shipLatitude);
+  var pitch = Cesium.Math.toRadians(pitch);
+	var boundingSphere = new Cesium.BoundingSphere(cameraCenter, range);
+	var headingPitchRange = new Cesium.HeadingPitchRange(heading,pitch,range);
+	
+	viewer.camera.constrainedAxis = Cesium.Cartesian3.UNIT_Z;
+	viewer.camera.flyToBoundingSphere(boundingSphere,{
+		duration : 3.0,
+		offset : headingPitchRange,
+		easingFunction: Cesium.EasingFunction.CUBIC_IN_OUT
+	});  
+
 
   viewer.entities.add({
     name: "LampuLo Boat on the top of Houses",
