@@ -1,21 +1,21 @@
 # Aceh Archive For DRR
 
-## How to start
+## How to start dev server
 
-Please install Node.js and hexo-cli
+Please install Node.js
 
 ```sh
 npm install
 npm run static
-hexo server # start dev server
+npm run server
 ```
 
 # How to deploy
 
 ```
-hexo generate
+npm run generate
 npm run static
-hexo deploy
+npm run deploy
 ```
 
 DON'T FORGET `npm run static` before the deployment!
