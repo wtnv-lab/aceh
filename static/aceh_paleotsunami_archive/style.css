@@ -37,27 +37,28 @@ html, body {
 }
 
 .button-history {
-  width: 78px;
-  height: 108px;
+  width: 39px;
+  height: 54px;
   background-image: url("images/button-histroy.png");
 }
 
 .button-science {
-  width: 81px;
-  height: 108px;
+  width: 41px;
+  height: 53px;
   background-image: url("images/button-science.png");
 }
 
 .button-interview {
-  width: 81px;
-  height: 108px;
+  width: 41px;
+  height: 54px;
   background-image: url("images/button-interview.png");
 }
 
 .buttons-sub {
   display: none;
   margin-top: 20px;
-  width: 300px;
+  width: 150px;
+  font-size: 0.8em;
 }
 
 .buttons-sub.shown {
