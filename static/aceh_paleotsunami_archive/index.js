@@ -17,27 +17,32 @@
             children: [
               {
                 name: "Tsunami 2004",
-                title: "あ",
+                title: "Monecke et al 2013",
                 entities: ["Tsunami 2004"]
               },
               {
                 name: "Samatiga Region",
+                title: "1000 y.o tsunami deposit, Monecke et al 2008",
                 entities: ["Samatiga Region"]
               },
               {
                 name: "Samatiga 2002",
+                title: "Monecke et al 2008",
                 entities: ["Samatiga 2002", "coastal line(2002)"]
               },
               {
                 name: "Samatiga 2005",
+                title: "Monecke et al 2008",
                 entities: ["Samatiga 2005", "coastal line(2005)"]
               },
               {
                 name: "Samatiga 2011",
+                title: "Monecke et al 2013",
                 entities: ["Samatiga 2011", "coastal line(2011)"]
               },
               {
                 name: "Samatiga 2013",
+                title: "Monecke et al 2013",
                 entities: ["Samatiga 2013", "coastal line(2013)"]
               }
             ]
@@ -48,28 +53,34 @@
             children: [
               {
                 name: "Banda Aceh-Epicentrum earthquake",
+                title: "Meilianda 2009",
                 entities: ["Banda Aceh-Epicentrum earthquake"]
               },
               {
                 name: "Banda Aceh-Clocckwise 1",
+                title: "Meilianda 2009",
                 entities: ["Banda Aceh-Clocckwise 1"]
               },
               {
                 name: "Banda Aceh-Clocckwise 2",
+                title: "Meilianda 2009",
                 entities: ["Banda Aceh-Clocckwise 2"]
               },
               {
                 name: "Banda Aceh-Clocckwise 3",
+                title: "Meilianda 2009",
                 entities: ["Banda Aceh-Clocckwise 3"]
               },
               {
                 name: "Seulawah Terrace 2",
+                title: "Banda Aceh is Mount Seulawah Terrace from the ocean, Meilianda 2009",
                 entities: ["Seulawah Terrace 2"]
               }
             ]
           },
           {
             name: "Aceh Besar",
+            title: "Geomorphological coastal changing, Meilianda 2009",
             entities: ["Aceh Besar"]
           }
         ]
