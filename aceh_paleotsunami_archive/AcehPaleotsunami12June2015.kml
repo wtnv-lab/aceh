@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AcehPaleotsunami12June2015.kmz</name>
+	<open>1</open>
+	<StyleMap id="msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1a28ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_Science_icon0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Science_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2242ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1d39ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff45ff6d</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2738ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff4ee8</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/History_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3922ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff4ee8</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_Science_icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Science_icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Science_icon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1a28ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1039ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff45ff6d</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/History_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3922ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2738ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1039ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1d39ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_Science_icon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Science_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2242ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Hsitory</name>
+		<Placemark>
+			<name>Banda Aceh-Museum Ali Hasjmy</name>
+			<description><![CDATA[<img src="images/manuscript Aceh.jpg"/>
+<br>
+In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it will cause hard wind, sea waves are loud in it". The sentence is written in the last paragraph, that is yellow underlined.]]></description>
+			<LookAt>
+				<longitude>95.29917179295876</longitude>
+				<latitude>5.528870909529375</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01329418839688947</heading>
+				<tilt>19.29607389109086</tilt>
+				<range>4655.465376585568</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.30197024553371,5.522247024299842,1000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Interview</name>
+		<Placemark>
+			<name>Banda Aceh-Lampulo</name>
+			<description><![CDATA[<img src="images/Ayi_Banda Aceh.jpg"/>
+<br>
+"My great-grandfather, my grandfather and my father were fisherman, brought up from childhood in the coastal environment, but never heard stories from my parents or grandparents related tsunami before 2004. So the tsunami event in 2004 was a new experience for us, especially when it happened, a lot of people died nearly 80%, most of them were old people. So it is impossible to trace back information related earthquake and tsunami from them"
+
+         (Narrated by Ayi, (45 years old), Community Sea Commander Lam Pulo, Banda Aceh)]]></description>
+			<LookAt>
+				<longitude>95.32332717093776</longitude>
+				<latitude>5.577064249146688</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002185813296797612</heading>
+				<tilt>17.02369845012598</tilt>
+				<range>1476.822412526152</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.32420299868576,5.574991359488596,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aceh Jaya</name>
+			<description><![CDATA[<img src="images/Hamidah.png"/>
+<br>
+"When I was a girl, Ie Beuna has happened (reconstructed by the author, based on year of her birth, occurs around 1907). In the morning when the Krueng Sabe river water spilling which is close to the Dragon Cave (Geni Village, around 7-8 KM from the coast). I also experienced an earthquake 7 days and 7 nights during the DI / TII war (reconstructed by the same authors based on the history of other parts, occurred around the year 1964), the earthquakes start in the morning, consequently Gunung Sawah collapse "
+
+ (Narrated by Hamidah, (120 years old), Bunta Village, Krueng Sabe, Aceh Jaya).]]></description>
+			<LookAt>
+				<longitude>95.62029884264396</longitude>
+				<latitude>4.687983857105457</latitude>
+				<altitude>0</altitude>
+				<heading>2.9222216206064</heading>
+				<tilt>0</tilt>
+				<range>31180.4168153448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.59489782749503,4.651934165389363,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aceh Barat</name>
+			<description><![CDATA[<img src="images/Cut_Aceh Barat.png"/>
+<br>
+"According to story from my grandmother, my grandfather was born at the time of the incident Ie Beuna. In that morning, the water in the sea looked very high, the religion leaders approached to the coast and sounded Azan, the sea water broke on the beach and a small proportion of water to land. That’s why my grandfather name was Teuku Leupek Ie Beuna. During earthquake in the morning of December 2004, my grandmother said, "the sea water will rise soon!". We were thinking that grandmother was very old and just senile. When sea water came, we tried to reach her whom could not get out of bed. I lost my grandmother and my husband, but my son was saved”
+
+ (Narrated by Cut Dian Putri, (39 years old), Padang Village IV, Ujung Kala, Aceh Barat).]]></description>
+			<LookAt>
+				<longitude>96.08914118404218</longitude>
+				<latitude>4.355852187984465</latitude>
+				<altitude>0</altitude>
+				<heading>0.1348211688524172</heading>
+				<tilt>0</tilt>
+				<range>86731.94473786296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>96.13540151189443,4.148740792842106,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Singkil</name>
+			<description><![CDATA[<img src="images/Sjafrijal_Singkil.png"/>
+<br>
+"There have been the first geloro around 18 century that drowned Old Singkil Town, then around 19 century occurred in the second geloro that made people moved from Kayu Menang to Singkil now",
+
+(Narrated by Safrijal Amni, (49 years old), Head of Environmental Impact Management, Singkil Regional Planning and Development Agency).]]></description>
+			<LookAt>
+				<longitude>97.84418247557072</longitude>
+				<latitude>2.268294833001191</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001180756146650246</heading>
+				<tilt>0</tilt>
+				<range>20984.28177197928</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>97.81257529253803,2.279192707566541,1000</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Simeulue</name>
+			<description><![CDATA[<img src="images/Screen Shot 2014-12-01 at 5.06.07 PM.png"/>
+<br>
+"In 1907, earthquake happened before Friday prayer, I was a small child, do not know anything, the ground cracked open because of it, my father took me to flee to the mountains. After prayer, many people visited low tide sea, then smong happened, the water entered to the land and many people died. At that time we were eating sago and using bark cloth (bairak). When the earthquake in the early morning in December 2004 and the river water (estuarine) receded quickly, I know that the sea water will rise, the voice like a pandan leaves burning. So, I shouted "smong!" and everyone ran to the mountains, when my grandson was born in the mountains, so I called him "Son of Smong".
+
+ (Narrated by Rukiyah, (118 years old), Teupah Barat, Simeulue in Rachmalia, (2012) and Ilyas, 2012).]]></description>
+			<Camera>
+				<longitude>95.86125368190888</longitude>
+				<latitude>3.968024863204759</latitude>
+				<altitude>888038.5154044209</altitude>
+				<heading>38.64401928203691</heading>
+				<tilt>0.0100972944484484</tilt>
+				<roll>38.6591356555083</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.99962229557528,2.859621211044043,1000</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Science</name>
+		<Folder>
+			<name>Aceh Barat-Samatiga</name>
+			<GroundOverlay>
+				<name>Tsunami 2004</name>
+				<description>Katrin Monecke et al. Research</description>
+				<Icon>
+					<href>images/figure1.jpeg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>1250</altitude>
+				<LatLonBox>
+					<north>15</north>
+					<south>0</south>
+					<east>100.1366666666667</east>
+					<west>88.51093055555556</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Samatiga Region</name>
+				<description>Katrin Monecke et al. Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/figure2.jpeg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>4.27837529515173</north>
+					<south>4.194038056740617</south>
+					<east>96.04077546793162</east>
+					<west>95.96012036335483</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Samatiga 2002</name>
+				<description>Katrin Monecke et al. Research</description>
+				<color>d4ffffff</color>
+				<Icon>
+					<href>images/figure3_2002.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>1250</altitude>
+				<LatLonBox>
+					<north>4.245982231902761</north>
+					<south>4.229451579008474</south>
+					<east>96.01204095684457</east>
+					<west>95.98708126900686</west>
+					<rotation>0.6225775591796273</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>coastal line(2002)</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>
+						95.98610539773978,4.246199974712988,100 96.00398078304734,4.227865938540857,100
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<GroundOverlay>
+				<name>Samatiga 2005</name>
+				<description>Katrin Monecke et al. Research</description>
+				<color>faffffff</color>
+				<Icon>
+					<href>images/figure3_2005.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>1250</altitude>
+				<LatLonBox>
+					<north>4.245982904629209</north>
+					<south>4.229716055629168</south>
+					<east>96.01193932409707</east>
+					<west>95.98730561666399</west>
+					<rotation>0.6225775591796273</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>coastal line(2005)</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>
+						95.98840286221896,4.245768484104451,100 96.00493722882176,4.228363031561179,100
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<GroundOverlay>
+				<name>Samatiga 2011</name>
+				<description>Katrin Monecke et al. Research</description>
+				<color>faffffff</color>
+				<Icon>
+					<href>images/figure3_2011.jpg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>1250</altitude>
+				<LatLonBox>
+					<north>4.245706896892005</north>
+					<south>4.2296585863789</south>
+					<east>96.01088277698706</east>
+					<west>95.98783516283534</west>
+					<rotation>1.6565369851823</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>coastal line(2011)</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>
+						95.98902254092735,4.246399311747223,100 96.00501520981062,4.229162099576708,100
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<GroundOverlay>
+				<name>Samatiga 2013</name>
+				<description>Katrin Monecke et al. Research</description>
+				<color>faffffff</color>
+				<Icon>
+					<href>images/figure3-2013.jpeg</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<altitude>1250</altitude>
+				<LatLonBox>
+					<north>4.246311571084555</north>
+					<south>4.229973432706923</south>
+					<east>96.01034594991231</east>
+					<west>95.98790601165446</west>
+					<rotation>3.085930053100301</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>coastal line(2013)</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>
+						95.98801141956372,4.246573929091342,100 96.00514429003425,4.228744201498062,100
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Banda Aceh</name>
+			<GroundOverlay>
+				<name>Banda Aceh-Epicentrum earthquake</name>
+				<description>Ella Meillianda Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Banda-Aceh-Epicenter-earthquake (1).png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>17.23207361894367</north>
+					<south>-3.715019925740742</south>
+					<east>107.4321029450399</east>
+					<west>89.23513517090672</west>
+					<rotation>-0.6878822784945886</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Banda Aceh-Clocckwise 1</name>
+				<description>Ella Meillianda Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/clockwise-subduction-A.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>16.22075693755709</north>
+					<south>2.839680425661868</south>
+					<east>101.9396864405645</east>
+					<west>92.08022413379646</west>
+					<rotation>-33.69113751513849</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Banda Aceh-Clocckwise 2</name>
+				<description>Ella Meillianda Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/clockwise-subduction-B.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>16.18265959009167</north>
+					<south>2.812842357553267</south>
+					<east>102.063316153231</east>
+					<west>92.07320952803956</west>
+					<rotation>-33.69113751513849</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Banda Aceh-Clocckwise 3</name>
+				<description>Ella Meillianda Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/clockwise-subduction-C.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>16.47789543914685</north>
+					<south>4.236679063941276</south>
+					<east>100.9566153613731</east>
+					<west>90.59149872233368</west>
+					<rotation>-15.90794941661387</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Seulawah Terrace 2</name>
+				<description>Ella Meillianda Research</description>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/SelawahA.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.948939996551109</north>
+					<south>5.330437144034192</south>
+					<east>95.65867725556217</east>
+					<west>94.92467410262664</west>
+					<rotation>-2.186553581638059</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+		<Folder>
+			<name>Aceh Besar</name>
+			<Placemark>
+				<name>Ujung Pancu</name>
+				<styleUrl>#msn_Science_icon</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.23772798388387,5.56595860854078,1000</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Ujung Pancu  A</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1898</begin>
+					<end>1924</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-changing-Lambadeuk-A.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.575009107958412</north>
+					<south>5.540020753026286</south>
+					<east>95.28661183173232</east>
+					<west>95.23417000060208</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Pancu  B</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1924</begin>
+					<end>1944</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/clockwise-subduction-D.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.575009107958412</north>
+					<south>5.540020753026286</south>
+					<east>95.28661183173232</east>
+					<west>95.23417000060208</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Pancu  C</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1944</begin>
+					<end>1967</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-changing-Lambadeuk-C.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.575009107958412</north>
+					<south>5.540020753026286</south>
+					<east>95.28661183173232</east>
+					<west>95.23417000060208</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Pancu  G</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1967</begin>
+					<end>1979</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/shoreline-lambadeuk-G.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.573823231717296</north>
+					<south>5.53795292347136</south>
+					<east>95.28725725591306</east>
+					<west>95.23584964369124</west>
+					<rotation>5.223920349409336</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Pancu  H</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1978</begin>
+					<end>1989</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/shoreline-lambadeuk-H.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.575009107958412</north>
+					<south>5.540020753026286</south>
+					<east>95.28661183173232</east>
+					<west>95.23417000060208</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Pancu  I</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1989</begin>
+					<end>2000</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/shoreline-lambadeuk-I.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.575009107958412</north>
+					<south>5.540020753026286</south>
+					<east>95.28661183173232</east>
+					<west>95.23417000060208</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Ujung Batee</name>
+				<styleUrl>#msn_Science_icon</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.39690614295306,5.622192846237619,1000</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Ujung Batee  D</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1898</begin>
+					<end>1924</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-changing-Kuala-Gienging-D.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.632078071859643</north>
+					<south>5.595784464892491</south>
+					<east>95.39852176797288</east>
+					<west>95.35083919111955</west>
+					<rotation>-5.240488680788494</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Batee  E</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1924</begin>
+					<end>1944</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-Kuala-Gienging-E.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.634720586368028</north>
+					<south>5.600399777979101</south>
+					<east>95.41080960451076</east>
+					<west>95.35836777314047</west>
+					<rotation>5.425425444076698</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Batee  F</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1944</begin>
+					<end>1967</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-Kuala-Giengieng-F.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.634720586368028</north>
+					<south>5.600399777979101</south>
+					<east>95.41080960451076</east>
+					<west>95.35836777314047</west>
+					<rotation>5.425425444076698</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Batee J</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1967</begin>
+					<end>1978</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Shoreline-kuala-giengieng-J.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.633982216872076</north>
+					<south>5.598993861939968</south>
+					<east>95.40574060148728</east>
+					<west>95.35329877035703</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Batee K</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1978</begin>
+					<end>1989</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/shoreline-kuala-gienging-K.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.633982216872076</north>
+					<south>5.598993861939968</south>
+					<east>95.40574060148728</east>
+					<west>95.35329877035703</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Ujung Batee L</name>
+				<description>Ella Meillianda Research</description>
+				<TimeSpan>
+					<begin>1989</begin>
+					<end>2000</end>
+				</TimeSpan>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>shoreline-kuala-giengieng-L.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.633982216872076</north>
+					<south>5.598993861939968</south>
+					<east>95.40574060148728</east>
+					<west>95.35329877035703</west>
+					<rotation>-0.728244801147103</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Lampuuk</name>
+				<styleUrl>#msn_Science_icon</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>absolute</altitudeMode>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>95.23586842291502,5.489313769450098,1000</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Before Tsunami</name>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/lampuuk-before-tsunami.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.502877791059812</north>
+					<south>5.467015589982494</south>
+					<east>95.24731972225031</east>
+					<west>95.22247364599608</west>
+					<rotation>0.2236869744304119</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>After Tsunami</name>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/Lampuuk-after-tsunami.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.502877791059812</north>
+					<south>5.467015589982494</south>
+					<east>95.24731972225031</east>
+					<west>95.22247364599608</west>
+					<rotation>0.2236869744304119</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Lampuuk Shoreline</name>
+				<drawOrder>1</drawOrder>
+				<Icon>
+					<href>images/shoreline-changing-Lampuuk.png</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>5.527490466756747</north>
+					<south>5.516621242011258</south>
+					<east>95.20520614274957</east>
+					<west>95.19274687419944</west>
+					<rotation>7.881606292729711</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
