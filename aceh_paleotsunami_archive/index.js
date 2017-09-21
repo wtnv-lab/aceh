@@ -1,4 +1,4 @@
-(function() {
+(function () {
   "use strict";
 
   var data = {
@@ -107,7 +107,7 @@
 
   // polyfill
   if (!Array.prototype.find) {
-    Array.prototype.find = function(predicate) { // eslint-disable-line no-extend-native
+    Array.prototype.find = function (predicate) { // eslint-disable-line no-extend-native
       if (this === null) {
         throw new TypeError("Array.prototype.find called on null or undefined");
       }
@@ -148,7 +148,7 @@
   }
 
   function walkMap(array, key, cb) {
-    return array.map(function(e) {
+    return array.map(function (e) {
       var ne = cb(e);
       if (key !== null && Array.isArray(e[key])) {
         ne[key] = walkMap(e[key], key, cb);
@@ -164,7 +164,7 @@
     dat.wrapper = document.createElement("div");
     dat.wrapper.classList.add(indexList.length > 0 ? "buttons-sub" : "buttons");
     panel.appendChild(dat.wrapper);
-    dat.children.forEach(function(d, i) {
+    dat.children.forEach(function (d, i) {
       var indexes = indexList.concat([i]);
       var el = document.createElement("a");
       el.setAttribute("href", "#");
@@ -175,7 +175,7 @@
         el.classList.add("button");
         el.classList.add("button-" + d.name);
       }
-      el.addEventListener("click", function(e) {
+      el.addEventListener("click", function (e) {
         e.preventDefault();
         showData(datt, indexes);
       });
@@ -186,11 +186,11 @@
   }
 
   function showData(dat, indexList) {
-    active.forEach(function(a, i) {
+    active.forEach(function (a, i) {
       var dd = path(dat, "children", active.slice(0, i + 1));
       if (dd.wrapper) dd.wrapper.classList.remove("active");
       if (dd.element) dd.element.classList.remove("active");
-      if (dd.entitiesObjects) dd.entitiesObjects.forEach(function(e) {
+      if (dd.entitiesObjects) dd.entitiesObjects.forEach(function (e) {
         e.show = false;
       });
       if (active.length - 1 === i) {
@@ -215,11 +215,11 @@
       newActive.push(0);
     }
 
-    newActive.forEach(function(a, i) {
+    newActive.forEach(function (a, i) {
       var dd = path(dat, "children", newActive.slice(0, i + 1));
       if (dd.wrapper) dd.wrapper.classList.add("active");
       if (dd.element) dd.element.classList.add("active");
-      if (dd.entitiesObjects) dd.entitiesObjects.forEach(function(e) {
+      if (dd.entitiesObjects) dd.entitiesObjects.forEach(function (e) {
         e.show = true;
       });
       if (newActive.length - 1 === i) {
@@ -239,10 +239,26 @@
 
   renderButtons(data);
 
+  Cesium.BingMapsApi.defaultKey = 'AmDiNiWtz3tsEzARYwq3soAdZUQbVEcrRhIhb-xco8ouQuH2VBsuR2cSElI8eMot';
+
+  var cesiumTerrainProviderMeshes = new Cesium.CesiumTerrainProvider({
+    url: '//assets.agi.com/stk-terrain/world',
+    requestWaterMask: false,
+    requestVertexNormals: false
+  });
+
   var viewer = new Cesium.Viewer(document.getElementById("root"), {
     animation: false,
-    timeline: false
+    timeline: false,
+    scene3DOnly: true
   });
+
+  viewer.terrainProvider = cesiumTerrainProviderMeshes;
+  viewer.terrainProvider.heightmapTerrainQuality = 0.1;
+
+  var fog = new Cesium.Fog();
+  fog.density = 0.003;
+  fog.screenSpaceErrorFactor = 100.0;
 
   Cesium.Camera.DEFAULT_VIEW_FACTOR = 0;
 
@@ -258,25 +274,27 @@
   Cesium.KmlDataSource.load("AcehPaleotsunami12June2015.kml", {
     camera: viewer.scene.camera,
     canvas: viewer.scene.canvas
-  }).then(function(kml) { try {
-    data.children = walkMap(data.children, "children", function(d) {
-      if (!d.entities) return d;
-      d.entitiesObjects = d.entities.map(function(e) {
-        return kml.entities.values.find(function(e2) {
-          return e2.name === e;
+  }).then(function (kml) {
+    try {
+      data.children = walkMap(data.children, "children", function (d) {
+        if (!d.entities) return d;
+        d.entitiesObjects = d.entities.map(function (e) {
+          return kml.entities.values.find(function (e2) {
+            return e2.name === e;
+          });
         });
+        d.entitiesObjects.forEach(function (e) {
+          e.show = false;
+        });
+        return d;
       });
-      d.entitiesObjects.forEach(function(e) {
-        e.show = false;
-      });
-      return d;
-    });
 
-    viewer.dataSources.add(kml);
-    viewer.clock.multiplier = 0;
+      viewer.dataSources.add(kml);
+      viewer.clock.multiplier = 0;
 
-    showData(data, [0]);
-  } catch (err) { console.error(err); } });
+      showData(data, [0]);
+    } catch (err) { console.error(err); }
+  });
 
 
 }());
