@@ -10,7 +10,7 @@ author: Nurjanah
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://nurjanahjane.github.io
+url: http://wtnv-lab.github.io
 root: /aceh_archive_for_drr
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -67,6 +67,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:NurjanahJane/aceh_archive_for_drr.git
+  repo: git@github.com:wtnv-lab/aceh_archive_for_drr.git
   branch: gh-pages
 
