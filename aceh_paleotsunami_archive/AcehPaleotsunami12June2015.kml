@@ -3,43 +3,150 @@
 <Document>
 	<name>AcehPaleotsunami12June2015.kmz</name>
 	<open>1</open>
-	<StyleMap id="msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
+	<Style id="sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
 			<Icon>
-				<href>images/Interview_icon.png</href>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/History_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff1a28ff</color>
+			<color>ff3922ff</color>
 		</LineStyle>
 	</Style>
-	<Style id="sh_Science_icon0">
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>images/Science_icon.png</href>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/History_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3922ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2738ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_Science_icon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Science_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
 			<color>ff2242ff</color>
 		</LineStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Science_icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Science_icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Science_icon0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>images/Interview_icon.png</href>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1d39ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2738ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
@@ -57,159 +164,6 @@
 		<LineStyle>
 			<color>ff45ff6d</color>
 			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff2738ff</color>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff4ee8</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/History_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff3922ff</color>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff4ee8</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_Science_icon">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_Science_icon</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_Science_icon0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffff0000</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1a28ff</color>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1039ff</color>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin2">
@@ -238,15 +192,78 @@
 			<width>4</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>images/History_icon.png</href>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff3922ff</color>
+			<color>ff1a28ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1a28ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff4ee8</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1000ff</color>
+			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin0">
@@ -262,16 +279,41 @@
 			<width>4</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
-		</Pair>
-	</StyleMap>
+	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1039ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff4ee8</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_Science_icon0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Science_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff2242ff</color>
+		</LineStyle>
+	</Style>
 	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
 		<Pair>
 			<key>normal</key>
@@ -282,87 +324,45 @@
 			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff2738ff</color>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1000ff</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
+				<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Interview_icon.png</href>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
 			<color>ff1039ff</color>
 		</LineStyle>
 	</Style>
-	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1d39ff</color>
-		</LineStyle>
-	</Style>
-	<Style id="sn_Science_icon">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/Science_icon.png</href>
-			</Icon>
-		</IconStyle>
-		<LineStyle>
-			<color>ff2242ff</color>
-		</LineStyle>
-	</Style>
-	<Style id="sh_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_T_snynUWw-4HPTtj5T0npvix7T9gqp_3WPAp_3sPQDc=w272-h113-no3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>images/Interview_icon.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin0">
+	<StyleMap id="msn_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder>
@@ -391,8 +391,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		</Placemark>
 		<Placemark>
 			<name>List of Manuscripts related earthquake and tsunami Aceh</name>
-			<description><![CDATA[
-				<style>
+			<description><![CDATA[<style>
 					table {
 						width: 100%;
 					}
@@ -487,20 +486,18 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 							<td>On chapter mention about earthquake treatise.</td>
 						</tr>
 					</tbody>
-				</table>
-			]]></description>
+				</table>]]></description>
 			<styleUrl>#msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<altitudeMode>absolute</altitudeMode>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>95.2936829,5.5611009,1000</coordinates>
+				<coordinates>95.29368289999999,5.5611009,1000</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Prose of Earthquake in Aceh, Sjeh Rih Krueng Raya, 1964</name>
-			<description><![CDATA[
-				<style>
+			<description><![CDATA[<style>
 					.pdf {
 					  display: block;
 					  margin: 0 auto;
@@ -538,8 +535,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<img src="images/pdf/Geumpa_di_Acheh-ACEH_03142_18.jpg" class="pdf" />
 				<img src="images/pdf/Geumpa_di_Acheh-ACEH_03142_19.jpg" class="pdf" />
 				<img src="images/pdf/Geumpa_di_Acheh-ACEH_03142_20.jpg" class="pdf" />
-				<img src="images/pdf/Geumpa_di_Acheh-ACEH_03142_21.jpg" class="pdf" />
-			]]></description>
+				<img src="images/pdf/Geumpa_di_Acheh-ACEH_03142_21.jpg" class="pdf" />]]></description>
 			<styleUrl>#msn_Lxt9VvH1lcKnVapYdszFrRhVS38JsA_0mc-pGF0Sv4Q=w294-h110-no</styleUrl>
 			<Point>
 				<extrude>1</extrude>
@@ -676,11 +672,12 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 		<name>Science</name>
 		<Folder>
 			<name>Aceh Barat-Samatiga</name>
+			<open>1</open>
 			<GroundOverlay>
 				<name>Tsunami 2004</name>
 				<description>Katrin Monecke et al. Research</description>
 				<Icon>
-					<href>images/figure1.jpeg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure1.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -696,7 +693,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/figure2.jpeg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure2.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -711,7 +708,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>d4ffffff</color>
 				<Icon>
-					<href>images/figure3_2002.jpg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure3_2002.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -730,7 +727,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 					<tessellate>1</tessellate>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<coordinates>
-						95.98610539773978,4.246199974712988,100 96.00398078304734,4.227865938540857,100
+						95.98610539773978,4.246199974712988,100 96.00398078304734,4.227865938540857,100 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -739,7 +736,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>images/figure3_2005.jpg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure3_2005.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -758,7 +755,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 					<tessellate>1</tessellate>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<coordinates>
-						95.98840286221896,4.245768484104451,100 96.00493722882176,4.228363031561179,100
+						95.98840286221896,4.245768484104451,100 96.00493722882176,4.228363031561179,100 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -767,7 +764,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>images/figure3_2011.jpg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure3_2011.jpg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -786,7 +783,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 					<tessellate>1</tessellate>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<coordinates>
-						95.98902254092735,4.246399311747223,100 96.00501520981062,4.229162099576708,100
+						95.98902254092735,4.246399311747223,100 96.00501520981062,4.229162099576708,100 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -795,7 +792,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Katrin Monecke et al. Research</description>
 				<color>faffffff</color>
 				<Icon>
-					<href>images/figure3-2013.jpeg</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/figure3-2013.jpeg</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<altitude>1250</altitude>
@@ -814,7 +811,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 					<tessellate>1</tessellate>
 					<altitudeMode>relativeToGround</altitudeMode>
 					<coordinates>
-						95.98801141956372,4.246573929091342,100 96.00514429003425,4.228744201498062,100
+						95.98801141956372,4.246573929091342,100 96.00514429003425,4.228744201498062,100 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -826,7 +823,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Banda-Aceh-Epicenter-earthquake (1).png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Banda-Aceh-Epicenter-earthquake (1).png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -842,7 +839,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/clockwise-subduction-A.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/clockwise-subduction-A.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -858,7 +855,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/clockwise-subduction-B.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/clockwise-subduction-B.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -874,7 +871,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/clockwise-subduction-C.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/clockwise-subduction-C.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -890,7 +887,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<description>Ella Meillianda Research</description>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/SelawahA.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/SelawahA.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -923,7 +920,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-changing-Lambadeuk-A.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-changing-Lambadeuk-A.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -943,7 +940,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/clockwise-subduction-D.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/clockwise-subduction-D.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -963,7 +960,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-changing-Lambadeuk-C.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-changing-Lambadeuk-C.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -983,7 +980,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/shoreline-lambadeuk-G.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/shoreline-lambadeuk-G.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1003,7 +1000,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/shoreline-lambadeuk-H.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/shoreline-lambadeuk-H.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1023,7 +1020,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/shoreline-lambadeuk-I.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/shoreline-lambadeuk-I.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1053,7 +1050,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-changing-Kuala-Gienging-D.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-changing-Kuala-Gienging-D.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1073,7 +1070,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-Kuala-Gienging-E.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-Kuala-Gienging-E.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1093,7 +1090,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-Kuala-Giengieng-F.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-Kuala-Giengieng-F.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1113,7 +1110,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Shoreline-kuala-giengieng-J.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Shoreline-kuala-giengieng-J.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1133,7 +1130,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				</TimeSpan>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/shoreline-kuala-gienging-K.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/shoreline-kuala-gienging-K.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1178,7 +1175,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>Before Tsunami</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/lampuuk-before-tsunami.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/lampuuk-before-tsunami.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1193,7 +1190,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>After Tsunami</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/Lampuuk-after-tsunami.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/Lampuuk-after-tsunami.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1208,7 +1205,7 @@ In Figure 1, it explains that "Rajab: If earthquake happens in dhuha time, it wi
 				<name>Lampuuk Shoreline</name>
 				<drawOrder>1</drawOrder>
 				<Icon>
-					<href>images/shoreline-changing-Lampuuk.png</href>
+					<href>https://wtnv-lab.github.io/aceh_archive_for_drr/aceh_paleotsunami_archive/images/shoreline-changing-Lampuuk.png</href>
 					<viewBoundScale>0.75</viewBoundScale>
 				</Icon>
 				<LatLonBox>
