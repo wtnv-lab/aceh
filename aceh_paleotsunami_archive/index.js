@@ -250,7 +250,9 @@
   var viewer = new Cesium.Viewer(document.getElementById("root"), {
     animation: false,
     timeline: false,
-    scene3DOnly: true
+    scene3DOnly: true,
+    requestRenderMode: true,
+		maximumRenderTimeChange: Infinity
   });
 
   viewer.terrainProvider = cesiumTerrainProviderMeshes;
